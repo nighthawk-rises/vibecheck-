@@ -3,38 +3,38 @@
   {
    "kind": "asof",
    "n": 0,
-   "text": "Sun, Nov 15 · data as of 8:48 AM ET · stocks at Friday's close"
+   "text": "Mon, Nov 16 · data as of 8:42 AM ET · stocks at Friday's close"
   },
   {
    "kind": "headline",
    "n": 0,
-   "text": "Crypto Fear & Greed fell to 10, its lowest since June, as Bitcoin slid 2.5% to $65,505."
+   "text": "Bitcoin slid 1.4% to $64,620, its lowest close since Aug 17, with crypto Fear & Greed stuck at 10 ahead of Nvidia's results and Anthropic's IPO."
   },
   {
    "kind": "para",
    "n": 1,
-   "short": "Bitcoin fell 2.5% to $65,505 and Solana 3.6% to $72.79.",
-   "text": "Bitcoin fell 2.5% to $65,505, its lowest close since Aug 18, and Solana 3.6% to $72.79. Hot October inflation and strong jobs data put the odds of a December Fed hike at 88.5%, and US Bitcoin funds lost $1.07 billion in the week to Nov 13."
+   "short": "Bitcoin fell 1.4% to $64,620, its lowest close since Aug 17.",
+   "text": "Bitcoin fell 1.4% to $64,620, its lowest close since Aug 17, and Solana 3.0% to $70.63, its lowest since June 27. Bitcoin dipped under $62,000 on Saturday and has lost about 17% in November, its sixth weekly loss in a row. Nasdaq futures were down 0.8% and the 10-year Treasury yield sat above 5.1%."
   },
   {
    "kind": "para",
    "n": 2,
-   "short": "SpaceX caught a Starship upper stage Saturday, a first.",
-   "text": "Stocks were shut. On Saturday SpaceX caught a Starship upper stage back from orbit with the tower arms, a first, though the booster blew up after launch; SpaceX shares last closed at $139.11. Summit's lung cancer drug was turned down by the FDA, a result analysts had largely expected."
+   "short": "Nvidia reports Tuesday; Anthropic's IPO starts trading Thursday.",
+   "text": "Nvidia reports after Tuesday's close, with sales of $108.7 billion expected, and traded about 2% lower before the open. Fed minutes come Wednesday, and Anthropic is set to start trading on the Nasdaq Thursday, raising up to $64 billion."
   },
   {
    "kind": "para",
    "n": 3,
-   "short": "Bitcoin reads 10, Coinbase 13, NVIDIA 14, Solana 19: all Very low.",
-   "text": "Bitcoin reads 10, Coinbase 13, NVIDIA 14 and Solana 19, all Very low; Bitcoin and Coinbase lead the buy list. CNN's stock gauge holds at 39. Games score 52 and Pokémon 48, both Normal."
+   "short": "Bitcoin 10, Coinbase 13, NVIDIA 14, Solana 16: all Very low.",
+   "text": "Bitcoin reads 10, Coinbase 13, NVIDIA 14 and Solana 16, all Very low; Bitcoin and Coinbase lead the buy list. CNN's stock gauge holds at 39. Games score 51 and Pokémon 49, both Normal. Five of last week's six game sells have fallen since (Pikmin loose −13.6%); the games bought are flat to up 23.7%, while Bitcoin is down 3.8%. None has reached its verdict yet."
   },
   {
    "kind": "buy",
    "n": 1,
    "group": "markets",
    "name": "Bitcoin · score 10",
-   "short": "Fear & Greed 10 · down 19.6% in a month · down 31.4% in a year",
-   "text": "Crypto Fear & Greed reads 10, Extreme Fear, its lowest since Jun 10. Bitcoin is $65,505, down 19.6% in a month and 31.4% in a year. Caution: bets on a December Fed hike are still climbing and fund outflows go on."
+   "short": "Fear & Greed 10 · down 20.6% in a month · down 31.4% in a year",
+   "text": "Crypto Fear & Greed reads 10, Extreme Fear, for a second day. Bitcoin is $64,620, down 20.6% in a month and 31.4% in a year. Caution: US Bitcoin funds keep losing money and bets on a December Fed hike are high."
   },
   {
    "kind": "buy",
@@ -42,62 +42,62 @@
    "group": "markets",
    "name": "Coinbase · score 13",
    "short": "RSI 32 · 26.7% under its 200-day average · at its 1-year low",
-   "text": "Coinbase closed Friday at $127.65, down 26.2% in a month and 54.9% in a year. It sits at the bottom of its one-year range, 26.7% under its 200-day average, with RSI 32. Very low stock readings came before above-average 30-day gains in the tests. Caution: crypto fell further over the weekend, so it may open lower Monday."
+   "text": "Coinbase closed Friday at $127.65, down 26.2% in a month and 54.9% in a year. It sits at the bottom of its one-year range, 26.7% under its 200-day average, with RSI 32. Very low stock readings came before above-average 30-day gains in the tests. Caution: Bitcoin fell further over the weekend, so it may open lower."
   },
   {
    "kind": "buy",
    "n": 3,
    "group": "collectibles",
-   "name": "Banjo-Tooie (N64), boxed · $102.95",
-   "short": "20.9% under its 12-month average · down 6.4% in a month · down 12.6% in a year",
-   "text": "20.9% under its 12-month average, down 6.4% in a month and 12.6% in a year, at the bottom of its one-year range. It sells about three times a week. Games this far under their usual price rose the next month about two times in three."
+   "name": "Banjo-Tooie (N64), boxed · $97.50",
+   "short": "25.1% under its 12-month average · down 11.4% in a month · down 24.7% in a year",
+   "text": "25.1% under its 12-month average, down 11.4% in a month and 24.7% in a year, at the bottom of its one-year range. It sells about three times a week. Games this far under their usual price rose the next month about two times in three."
   },
   {
    "kind": "buy",
    "n": 4,
    "group": "collectibles",
-   "name": "Sonic Heroes (GameCube), boxed · $31.14",
-   "short": "13.0% under its 12-month average · down 12.9% in a month · down 8.3% in a year",
-   "text": "13.0% under its 12-month average after a 12.9% drop in a month, down 8.3% in a year and at the bottom of its one-year range. It sells about twice a day."
+   "name": "Shadow the Hedgehog (GameCube), boxed · $57.50",
+   "short": "17.3% under its 12-month average · down 14.2% in a month · down 18.2% in a year",
+   "text": "17.3% under its 12-month average after a 14.2% drop in a month, down 18.2% in a year and at the bottom of its one-year range. It sells about twice a day."
   },
   {
    "kind": "buy",
    "n": 5,
    "group": "collectibles",
-   "name": "Animal Crossing (GameCube), boxed · $60.45",
-   "short": "12.1% under its 12-month average · down 12.4% in a month · down 3.1% in a year",
-   "text": "12.1% under its 12-month average after a 12.4% drop in a month, down 3.1% in a year and near the bottom of its one-year range. It sells about twice a day."
+   "name": "Sonic Heroes (GameCube), boxed · $31.14",
+   "short": "13.0% under its 12-month average · down 12.9% in a month · down 10.9% in a year",
+   "text": "13.0% under its 12-month average after a 12.9% drop in a month, down 10.9% in a year and at the bottom of its one-year range. It sells about twice a day."
   },
   {
    "kind": "sell",
    "n": 1,
    "group": "collectibles",
    "name": "Resident Evil 4 (GameCube), loose · $41.83",
-   "short": "34.1% over its 12-month average · up 13.4% in a month · up 78.1% in a year",
-   "text": "Up 13.4% in a month to 34.1% over its 12-month average, near the top of its one-year range, and up 78.1% in a year. It sells about three times a week. Games this stretched fell the next month about two times in three."
+   "short": "34.1% over its 12-month average · up 13.4% in a month · up 61.6% in a year",
+   "text": "Up 13.4% in a month to 34.1% over its 12-month average, near the top of its one-year range, and up 61.6% in a year. It sells about three times a week. Games this stretched fell the next month about two times in three."
   },
   {
    "kind": "sell",
    "n": 2,
    "group": "collectibles",
    "name": "Resident Evil (GameCube), loose · $31.32",
-   "short": "27.1% over its 12-month average · up 11.9% in a month · up 84.3% in a year",
-   "text": "Up 11.9% in a month to 27.1% over its 12-month average, and up 84.3% in a year. It sells about three times a week."
+   "short": "27.1% over its 12-month average · up 11.9% in a month · up 74.1% in a year",
+   "text": "Up 11.9% in a month to 27.1% over its 12-month average, near the top of its one-year range, and up 74.1% in a year. It sells about three times a week."
   },
   {
    "kind": "sell",
    "n": 3,
    "group": "collectibles",
-   "name": "Pikmin (GameCube), loose · $38.78",
-   "short": "23.9% over its 12-month average · up 21.7% in a month · up 50.0% in a year",
-   "text": "Up 21.7% in a month to 23.9% over its 12-month average, the top of its one-year range, and up 50.0% in a year. It sells about once a day."
+   "name": "Wave Race 64 (N64), boxed · $74.25",
+   "short": "18.9% over its 12-month average · up 16.9% in a month · up 23.9% in a year",
+   "text": "Up 16.9% in a month to 18.9% over its 12-month average, and up 23.9% in a year. It sells about three times a week."
   },
   {
    "kind": "dot",
    "n": 1,
    "name": "Extreme fear has come before gains",
    "short": "Bitcoin rose in 30 days after 54 of 71 past days with Fear & Greed at 13 or under.",
-   "text": "After past days with crypto Fear & Greed at 13 or under, Bitcoin was higher 30 days later 54 times in 71, by 5.2% on average, against 58% of all days and 3.6% on average since Oct 2023. Those days bunch into a few spells, so the count overstates the evidence. Checked on the fng and btc rows in history.json.",
+   "text": "After past days with crypto Fear & Greed at 13 or under, Bitcoin was higher 30 days later 54 times in 71, by 5.2% on average, against 57% of all days and 3.6% on average since Oct 2023. Those days bunch into a few spells, so the count overstates the evidence. Checked on the fng and btc rows in history.json.",
    "since": "Nov 14, 2026"
   },
   {
@@ -105,7 +105,7 @@
    "n": 2,
    "name": "Six down weeks for Bitcoin",
    "short": "Bitcoin's Sunday price fell 6 weeks running, from $86,480 to $65,505.",
-   "text": "Bitcoin's Sunday price has fallen six weeks in a row, from $86,480 on Oct 4 to $65,505 today. That ties the longest run since 2023, which ended Mar 1, 2026; 30 days later Bitcoin was up 3.8%. Checked on the daily Bitcoin rows in history.json.",
+   "text": "Bitcoin's Sunday price has fallen six weeks in a row, from $86,480 on Oct 4 to $65,505 on Nov 15. That ties the longest run since 2023, which ended Mar 1, 2026; 30 days later Bitcoin was up 3.8%. Checked on the daily Bitcoin rows in history.json.",
    "since": "Nov 9, 2026"
   },
   {
@@ -113,7 +113,7 @@
    "n": 3,
    "name": "Stock fear run ends",
    "short": "CNN's stock gauge read 37, 36, 40 and 39 after 22 readings at 34 or under.",
-   "text": "CNN's gauge read 34 or under at all 22 readings from Oct 14 to Nov 9, then 37, 36, 40 and 39. The two longer runs in the stored history ended Apr 24, 2025 and Apr 9, 2026; 30 days after each, the S&P 500 fund was up 6.0% and 8.5%. Checked on the daily CNN and VOO rows in history.json.",
+   "text": "CNN's gauge read 34 or under at all 22 readings from Oct 14 to Nov 9, then 37, 36, 40 and 39. The two longer runs in the stored history ended Apr 24, 2025 and Apr 9, 2026; 30 days after each, the S&P 500 fund was up 8.1% and 8.7%. Checked on the daily CNN and VOO rows in history.json.",
    "since": "Nov 5, 2026"
   },
   {
@@ -302,6 +302,16 @@
    "kind": "showtime",
    "n": 1,
    "date": "2026-11-19",
+   "name": "Anthropic IPO on the Nasdaq",
+   "touches": "Stock market",
+   "short": "Up to $64B raised at up to $1.4T value, the largest IPO on record.",
+   "text": "Anthropic is set to price its IPO on Nov 18 and start trading on the Nasdaq as ANT on Nov 19, selling 825 million shares at $70 to $78. A sale this size pulls money from other tech and AI stocks, and its first days could sway the whole market.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-fed-minutes-anthropic-120006002.html"
+  },
+  {
+   "kind": "showtime",
+   "n": 2,
+   "date": "2026-11-19",
    "name": "GTA 6 launch",
    "touches": "Gaming",
    "short": "The biggest game launch in years, after two delays.",
@@ -311,7 +321,7 @@
   {
    "kind": "watch",
    "n": 0,
-   "at": "2026-11-14T20:15:00-05:00",
+   "at": "2026-11-15T20:08:00-05:00",
    "missing": [],
    "mode": "coins",
    "of": 2,
@@ -322,8 +332,8 @@
   {
    "kind": "idea",
    "n": 0,
-   "short": "Date CNN's daily points by UTC day, not New York day, to stop a 1-day shift.",
-   "text": "CNN stamps each daily point at midnight UTC, so turning it into a New York date moves it back a day (Friday's reading lands on Thursday). I dated today's points by their UTC day, which matches the stored rows. The step 2G wording could say so, and the stray Sunday reading stored for Nov 1 (19) could be removed."
+   "short": "Ask the console lists for tracked games only; the fetch tool cuts them short.",
+   "text": "The fetch tool stops reading at 100,000 characters, which cut both console lists after about 138 rows today. All 136 tracked games still came through, but games far down the list could drop out. Step 2D could ask only for rows whose link is in config.json, which keeps each reply short and complete."
   }
  ]
 }
