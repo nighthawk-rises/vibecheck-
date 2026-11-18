@@ -10,19 +10,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/zelda-ocarina-of-time",
-   "price": 48.29,
+   "price": 46.31,
    "multiple": null,
-   "mom1": -0.9,
-   "chg1y": 23.6,
-   "stretch": 6.9,
-   "range": 90,
+   "mom1": -5.0,
+   "chg1y": 18.5,
+   "stretch": 2.5,
+   "range": 71,
    "trend": null,
    "per_day": 4.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -4.1
   },
   {
    "market": "retro",
@@ -34,11 +34,11 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/zelda-ocarina-of-time",
-   "price": 197.0,
+   "price": 197.48,
    "multiple": null,
-   "mom1": 4.2,
-   "chg1y": 22.8,
-   "stretch": 23.0,
+   "mom1": 4.5,
+   "chg1y": 23.1,
+   "stretch": 23.3,
    "range": 100,
    "trend": null,
    "per_day": 2.0,
@@ -46,7 +46,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 0.2
   },
   {
    "market": "retro",
@@ -58,19 +58,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/zelda-majora's-mask",
-   "price": 94.52,
+   "price": 97.0,
    "multiple": null,
-   "mom1": -4.7,
-   "chg1y": 45.3,
-   "stretch": 8.3,
-   "range": 84,
+   "mom1": -2.2,
+   "chg1y": 49.1,
+   "stretch": 11.2,
+   "range": 91,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 2.6
   },
   {
    "market": "retro",
@@ -82,11 +82,11 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/zelda-majora's-mask",
-   "price": 272.5,
+   "price": 275.0,
    "multiple": null,
-   "mom1": 9.8,
-   "chg1y": 36.2,
-   "stretch": 13.9,
+   "mom1": 10.8,
+   "chg1y": 37.5,
+   "stretch": 15.0,
    "range": 100,
    "trend": null,
    "per_day": 1.0,
@@ -94,7 +94,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 0.9
   },
   {
    "market": "retro",
@@ -118,7 +118,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.4
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -142,7 +142,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -178,19 +178,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/conker's-bad-fur-day",
-   "price": 373.6,
+   "price": 368.6,
    "multiple": null,
-   "mom1": 2.2,
-   "chg1y": 24.5,
-   "stretch": 3.7,
-   "range": 52,
+   "mom1": 0.8,
+   "chg1y": 22.9,
+   "stretch": 2.3,
+   "range": 49,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.3
   },
   {
    "market": "retro",
@@ -202,19 +202,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/007-goldeneye",
-   "price": 30.0,
+   "price": 33.75,
    "multiple": null,
-   "mom1": 3.5,
-   "chg1y": 1.0,
-   "stretch": 2.7,
-   "range": 54,
+   "mom1": 16.4,
+   "chg1y": 13.6,
+   "stretch": 15.6,
+   "range": 100,
    "trend": null,
    "per_day": 7.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 12.5
   },
   {
    "market": "retro",
@@ -226,19 +226,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/007-goldeneye",
-   "price": 81.37,
+   "price": 80.34,
    "multiple": null,
-   "mom1": -9.6,
-   "chg1y": 4.7,
-   "stretch": -5.1,
-   "range": 36,
+   "mom1": -10.7,
+   "chg1y": 3.4,
+   "stretch": -6.3,
+   "range": 33,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.3
   },
   {
    "market": "retro",
@@ -250,19 +250,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/pokemon-stadium",
-   "price": 30.0,
+   "price": 32.56,
    "multiple": null,
-   "mom1": 0.0,
-   "chg1y": 9.6,
-   "stretch": 1.5,
-   "range": 54,
+   "mom1": 8.6,
+   "chg1y": 19.0,
+   "stretch": 10.1,
+   "range": 85,
    "trend": null,
    "per_day": 4.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 8.5
   },
   {
    "market": "retro",
@@ -274,19 +274,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/pokemon-stadium",
-   "price": 239.55,
+   "price": 215.53,
    "multiple": null,
-   "mom1": -6.8,
-   "chg1y": 40.1,
-   "stretch": 4.9,
-   "range": 59,
+   "mom1": -16.2,
+   "chg1y": 26.0,
+   "stretch": -5.6,
+   "range": 38,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -5.5
+   "chg1d": -10.0
   },
   {
    "market": "retro",
@@ -298,19 +298,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-kart-64",
-   "price": 40.03,
+   "price": 42.0,
    "multiple": null,
-   "mom1": 0.1,
-   "chg1y": -8.9,
-   "stretch": -6.2,
-   "range": 25,
+   "mom1": 5.0,
+   "chg1y": -4.5,
+   "stretch": -1.6,
+   "range": 44,
    "trend": null,
    "per_day": 6.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.2
+   "chg1d": 4.9
   },
   {
    "market": "retro",
@@ -322,19 +322,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-kart-64",
-   "price": 119.99,
+   "price": 108.0,
    "multiple": null,
-   "mom1": 0.0,
-   "chg1y": -6.7,
-   "stretch": 1.3,
-   "range": 62,
+   "mom1": -10.0,
+   "chg1y": -16.0,
+   "stretch": -8.8,
+   "range": 34,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.0
+   "chg1d": -10.0
   },
   {
    "market": "retro",
@@ -358,7 +358,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 10.0
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -382,7 +382,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.2
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -396,7 +396,7 @@
    "url": "https://www.pricecharting.com/game/nintendo-64/clay-fighter-sculptors-cut",
    "price": 1400,
    "multiple": null,
-   "mom1": 7.7,
+   "mom1": 13.5,
    "chg1y": 40.0,
    "stretch": 18.6,
    "range": 100,
@@ -454,7 +454,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 4.8
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -466,19 +466,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/donkey-kong-64",
-   "price": 127.92,
+   "price": 118.75,
    "multiple": null,
-   "mom1": 27.9,
-   "chg1y": -3.8,
-   "stretch": 13.0,
-   "range": 85,
+   "mom1": 18.7,
+   "chg1y": -10.7,
+   "stretch": 4.9,
+   "range": 57,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.0
+   "chg1d": -7.2
   },
   {
    "market": "retro",
@@ -490,19 +490,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/pokemon-stadium-2",
-   "price": 83.5,
+   "price": 83.3,
    "multiple": null,
-   "mom1": -0.4,
-   "chg1y": 18.3,
-   "stretch": 1.5,
-   "range": 52,
+   "mom1": -0.7,
+   "chg1y": 18.0,
+   "stretch": 1.3,
+   "range": 51,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.6
+   "chg1d": -0.2
   },
   {
    "market": "retro",
@@ -562,19 +562,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/paper-mario",
-   "price": 251.7,
+   "price": 235.49,
    "multiple": null,
-   "mom1": 4.9,
-   "chg1y": 17.1,
-   "stretch": -1.0,
-   "range": 52,
+   "mom1": -1.9,
+   "chg1y": 9.5,
+   "stretch": -7.4,
+   "range": 29,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -6.4
   },
   {
    "market": "retro",
@@ -598,7 +598,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.5
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -610,19 +610,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/star-fox-64",
-   "price": 141.68,
+   "price": 154.24,
    "multiple": null,
-   "mom1": -13.5,
-   "chg1y": 34.0,
-   "stretch": -1.2,
-   "range": 43,
+   "mom1": -5.8,
+   "chg1y": 45.9,
+   "stretch": 7.6,
+   "range": 59,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -10.3
+   "chg1d": 8.9
   },
   {
    "market": "retro",
@@ -658,19 +658,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/banjo-kazooie",
-   "price": 132.99,
+   "price": 131.37,
    "multiple": null,
-   "mom1": 0.4,
-   "chg1y": 4.3,
-   "stretch": 2.7,
-   "range": 68,
+   "mom1": -0.9,
+   "chg1y": 3.1,
+   "stretch": 1.5,
+   "range": 61,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.2
   },
   {
    "market": "retro",
@@ -694,7 +694,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.4
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -706,19 +706,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/pokemon-snap",
-   "price": 97.73,
+   "price": 103.31,
    "multiple": null,
-   "mom1": -5.3,
-   "chg1y": 2.9,
-   "stretch": -8.3,
-   "range": 21,
+   "mom1": 0.1,
+   "chg1y": 8.8,
+   "stretch": -3.1,
+   "range": 37,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.3
+   "chg1d": 5.7
   },
   {
    "market": "retro",
@@ -742,7 +742,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -766,7 +766,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 5.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -778,19 +778,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/diddy-kong-racing",
-   "price": 31.45,
+   "price": 29.99,
    "multiple": null,
-   "mom1": 8.5,
-   "chg1y": 25.9,
-   "stretch": 9.4,
-   "range": 100,
+   "mom1": 3.4,
+   "chg1y": 20.0,
+   "stretch": 4.4,
+   "range": 85,
    "trend": null,
    "per_day": 3.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -4.6
   },
   {
    "market": "retro",
@@ -802,19 +802,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/diddy-kong-racing",
-   "price": 104.3,
+   "price": 109.63,
    "multiple": null,
-   "mom1": -0.6,
-   "chg1y": 4.3,
-   "stretch": 3.2,
-   "range": 78,
+   "mom1": 4.5,
+   "chg1y": 9.6,
+   "stretch": 8.5,
+   "range": 100,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 5.1
   },
   {
    "market": "retro",
@@ -826,10 +826,10 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/resident-evil-2",
-   "price": 74.99,
+   "price": 74.98,
    "multiple": null,
    "mom1": 4.2,
-   "chg1y": 42.9,
+   "chg1y": 42.8,
    "stretch": 5.0,
    "range": 69,
    "trend": null,
@@ -838,7 +838,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 5.6
+   "chg1d": -0.0
   },
   {
    "market": "retro",
@@ -850,19 +850,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/resident-evil-2",
-   "price": 251.2,
+   "price": 240.0,
    "multiple": null,
-   "mom1": 0.5,
-   "chg1y": 43.5,
-   "stretch": 5.0,
-   "range": 68,
+   "mom1": -4.0,
+   "chg1y": 37.1,
+   "stretch": 0.4,
+   "range": 58,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.5
+   "chg1d": -4.5
   },
   {
    "market": "retro",
@@ -874,19 +874,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-party-2",
-   "price": 42.69,
+   "price": 43.34,
    "multiple": null,
-   "mom1": 6.8,
-   "chg1y": -2.3,
-   "stretch": -3.6,
-   "range": 27,
+   "mom1": 8.4,
+   "chg1y": -0.8,
+   "stretch": -2.2,
+   "range": 34,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.9
+   "chg1d": 1.5
   },
   {
    "market": "retro",
@@ -898,19 +898,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-party-2",
-   "price": 139.99,
+   "price": 146.06,
    "multiple": null,
-   "mom1": 0.4,
-   "chg1y": 4.2,
-   "stretch": 4.5,
-   "range": 73,
+   "mom1": 4.7,
+   "chg1y": 8.7,
+   "stretch": 9.0,
+   "range": 98,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 4.3
   },
   {
    "market": "retro",
@@ -922,19 +922,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-party",
-   "price": 34.58,
+   "price": 35.0,
    "multiple": null,
-   "mom1": 4.9,
-   "chg1y": -1.2,
-   "stretch": -2.3,
-   "range": 34,
+   "mom1": 6.2,
+   "chg1y": 0.0,
+   "stretch": -1.1,
+   "range": 38,
    "trend": null,
    "per_day": 3.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.2
+   "chg1d": 1.2
   },
   {
    "market": "retro",
@@ -946,19 +946,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-party",
-   "price": 112.0,
+   "price": 121.68,
    "multiple": null,
-   "mom1": -2.8,
-   "chg1y": -28.4,
-   "stretch": -14.4,
-   "range": 34,
+   "mom1": 5.6,
+   "chg1y": -22.2,
+   "stretch": -7.0,
+   "range": 48,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 8.6
   },
   {
    "market": "retro",
@@ -970,19 +970,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-party-3",
-   "price": 48.11,
+   "price": 42.85,
    "multiple": null,
-   "mom1": -6.9,
-   "chg1y": -3.8,
-   "stretch": -12.2,
-   "range": 2,
+   "mom1": -17.1,
+   "chg1y": -14.3,
+   "stretch": -21.8,
+   "range": 0,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.8
+   "chg1d": -10.9
   },
   {
    "market": "retro",
@@ -994,19 +994,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-party-3",
-   "price": 122.02,
+   "price": 140.17,
    "multiple": null,
-   "mom1": -6.4,
-   "chg1y": -20.0,
-   "stretch": -21.2,
-   "range": 0,
+   "mom1": 7.6,
+   "chg1y": -8.0,
+   "stretch": -9.5,
+   "range": 19,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.5
+   "chg1d": 14.9
   },
   {
    "market": "retro",
@@ -1030,7 +1030,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 3.9
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1066,19 +1066,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/yoshi%27s-story",
-   "price": 26.99,
+   "price": 27.69,
    "multiple": null,
-   "mom1": -3.6,
-   "chg1y": 8.0,
-   "stretch": 4.0,
-   "range": 51,
+   "mom1": -1.1,
+   "chg1y": 10.8,
+   "stretch": 6.7,
+   "range": 61,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 2.6
   },
   {
    "market": "retro",
@@ -1126,7 +1126,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1150,7 +1150,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 3.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1174,7 +1174,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -5.2
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1270,7 +1270,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.4
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1294,7 +1294,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -5.3
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1330,19 +1330,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/castlevania",
-   "price": 106.95,
+   "price": 107.3,
    "multiple": null,
-   "mom1": 0.5,
-   "chg1y": 21.1,
-   "stretch": 8.7,
-   "range": 72,
+   "mom1": 0.9,
+   "chg1y": 21.5,
+   "stretch": 9.1,
+   "range": 73,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.4
+   "chg1d": 0.3
   },
   {
    "market": "retro",
@@ -1366,7 +1366,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -4.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1378,19 +1378,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/kirby-64-the-crystal-shards",
-   "price": 147.03,
+   "price": 146.16,
    "multiple": null,
-   "mom1": -2.0,
-   "chg1y": -2.0,
-   "stretch": -6.5,
-   "range": 15,
+   "mom1": -2.6,
+   "chg1y": -2.6,
+   "stretch": -7.1,
+   "range": 13,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.3
+   "chg1d": -0.6
   },
   {
    "market": "retro",
@@ -1414,7 +1414,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.4
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1462,7 +1462,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.0
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1474,19 +1474,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/castlevania-legacy-of-darkness",
-   "price": 404.07,
+   "price": 414.69,
    "multiple": null,
-   "mom1": 2.6,
-   "chg1y": -1.7,
-   "stretch": 0.9,
-   "range": 53,
+   "mom1": 5.3,
+   "chg1y": 0.9,
+   "stretch": 3.6,
+   "range": 77,
    "trend": null,
    "per_day": 0.14,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.4
+   "chg1d": 2.6
   },
   {
    "market": "retro",
@@ -1510,7 +1510,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 1.5
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1546,19 +1546,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/turok-2-seeds-of-evil",
-   "price": 12.5,
+   "price": 12.54,
    "multiple": null,
-   "mom1": -4.8,
-   "chg1y": 3.7,
-   "stretch": -7.8,
-   "range": 18,
+   "mom1": -4.5,
+   "chg1y": 4.1,
+   "stretch": -7.5,
+   "range": 19,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 0.3
   },
   {
    "market": "retro",
@@ -1594,19 +1594,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/wwf-no-mercy",
-   "price": 26.13,
+   "price": 27.49,
    "multiple": null,
-   "mom1": 4.5,
-   "chg1y": -12.9,
-   "stretch": -10.9,
-   "range": 14,
+   "mom1": 10.0,
+   "chg1y": -8.4,
+   "stretch": -6.2,
+   "range": 30,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 5.2
   },
   {
    "market": "retro",
@@ -1654,7 +1654,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.5
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1666,19 +1666,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/wave-race-64",
-   "price": 74.25,
+   "price": 68.62,
    "multiple": null,
-   "mom1": 16.9,
-   "chg1y": 23.9,
-   "stretch": 18.9,
-   "range": 75,
+   "mom1": 8.0,
+   "chg1y": 14.5,
+   "stretch": 9.8,
+   "range": 58,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.4
+   "chg1d": -7.6
   },
   {
    "market": "retro",
@@ -1702,7 +1702,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 1.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1726,7 +1726,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 1.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1738,19 +1738,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/spiderman",
-   "price": 40.0,
+   "price": 39.99,
    "multiple": null,
    "mom1": -7.0,
    "chg1y": 49.0,
    "stretch": 6.7,
-   "range": 73,
+   "range": 72,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.4
+   "chg1d": -0.0
   },
   {
    "market": "retro",
@@ -1774,7 +1774,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -8.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1798,7 +1798,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.3
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1822,7 +1822,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 5.2
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1882,19 +1882,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/turok-dinosaur-hunter",
-   "price": 17.74,
+   "price": 17.99,
    "multiple": null,
-   "mom1": -4.0,
-   "chg1y": 18.7,
-   "stretch": 3.5,
-   "range": 72,
+   "mom1": -2.6,
+   "chg1y": 20.3,
+   "stretch": 5.0,
+   "range": 78,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.4
+   "chg1d": 1.4
   },
   {
    "market": "retro",
@@ -1918,7 +1918,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.9
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -1930,11 +1930,11 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mega-man-64",
-   "price": 90.0,
+   "price": 89.58,
    "multiple": null,
-   "mom1": -5.3,
-   "chg1y": 47.6,
-   "stretch": -1.3,
+   "mom1": -5.7,
+   "chg1y": 46.9,
+   "stretch": -1.8,
    "range": 60,
    "trend": null,
    "per_day": 1.0,
@@ -1942,7 +1942,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -0.5
   },
   {
    "market": "retro",
@@ -2002,19 +2002,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/south-park",
-   "price": 81.98,
+   "price": 89.98,
    "multiple": null,
-   "mom1": -5.4,
-   "chg1y": 18.0,
-   "stretch": 3.4,
-   "range": 73,
+   "mom1": 3.8,
+   "chg1y": 29.5,
+   "stretch": 13.5,
+   "range": 100,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 9.8
   },
   {
    "market": "retro",
@@ -2026,19 +2026,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mystical-ninja-starring-goemon",
-   "price": 107.0,
+   "price": 97.0,
    "multiple": null,
-   "mom1": -7.0,
-   "chg1y": 18.9,
-   "stretch": -7.3,
-   "range": 43,
+   "mom1": -15.7,
+   "chg1y": 7.8,
+   "stretch": -16.0,
+   "range": 18,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -9.3
   },
   {
    "market": "retro",
@@ -2086,7 +2086,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 3.0
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -2098,19 +2098,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mischief-makers",
-   "price": 198.49,
+   "price": 203.4,
    "multiple": null,
-   "mom1": -1.2,
-   "chg1y": 24.7,
-   "stretch": -0.4,
-   "range": 55,
+   "mom1": 1.2,
+   "chg1y": 27.7,
+   "stretch": 2.1,
+   "range": 62,
    "trend": null,
    "per_day": 0.14,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.9
+   "chg1d": 2.5
   },
   {
    "market": "retro",
@@ -2134,7 +2134,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -2172,7 +2172,7 @@
    "url": "https://www.pricecharting.com/game/nintendo-64/stunt-racer",
    "price": 425.0,
    "multiple": null,
-   "mom1": 6.0,
+   "mom1": -7.1,
    "chg1y": 21.4,
    "stretch": 16.5,
    "range": 100,
@@ -2196,7 +2196,7 @@
    "url": "https://www.pricecharting.com/game/nintendo-64/stunt-racer",
    "price": 1360,
    "multiple": null,
-   "mom1": -9.3,
+   "mom1": -4.9,
    "chg1y": -9.3,
    "stretch": -8.1,
    "range": 36,
@@ -2218,19 +2218,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/hey-you-pikachu",
-   "price": 11.99,
+   "price": 12.99,
    "multiple": null,
-   "mom1": -0.1,
-   "chg1y": 58.4,
-   "stretch": 1.5,
-   "range": 57,
+   "mom1": 8.3,
+   "chg1y": 71.6,
+   "stretch": 10.0,
+   "range": 70,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 8.3
   },
   {
    "market": "retro",
@@ -2242,19 +2242,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/hey-you-pikachu",
-   "price": 159.07,
+   "price": 161.47,
    "multiple": null,
-   "mom1": 2.5,
-   "chg1y": 56.0,
-   "stretch": 11.0,
-   "range": 73,
+   "mom1": 4.0,
+   "chg1y": 58.3,
+   "stretch": 12.7,
+   "range": 76,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 1.5
   },
   {
    "market": "retro",
@@ -2278,7 +2278,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -2314,19 +2314,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/bomberman-64",
-   "price": 29.98,
+   "price": 28.32,
    "multiple": null,
-   "mom1": 1.0,
-   "chg1y": 15.2,
-   "stretch": -0.9,
-   "range": 56,
+   "mom1": -4.6,
+   "chg1y": 8.8,
+   "stretch": -6.3,
+   "range": 37,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -5.5
   },
   {
    "market": "retro",
@@ -2362,19 +2362,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/tony-hawk",
-   "price": 15.75,
+   "price": 15.58,
    "multiple": null,
-   "mom1": -12.4,
-   "chg1y": 18.7,
-   "stretch": 2.2,
-   "range": 53,
+   "mom1": -13.3,
+   "chg1y": 17.4,
+   "stretch": 1.1,
+   "range": 49,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -9.9
+   "chg1d": -1.1
   },
   {
    "market": "retro",
@@ -2410,19 +2410,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-golf",
-   "price": 37.0,
+   "price": 35.85,
    "multiple": null,
-   "mom1": 5.7,
-   "chg1y": 9.3,
-   "stretch": 2.1,
-   "range": 39,
+   "mom1": 2.5,
+   "chg1y": 5.9,
+   "stretch": -1.0,
+   "range": 28,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -3.1
   },
   {
    "market": "retro",
@@ -2434,11 +2434,11 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/mario-golf",
-   "price": 107.5,
+   "price": 107.01,
    "multiple": null,
-   "mom1": 8.0,
-   "chg1y": 26.6,
-   "stretch": 16.7,
+   "mom1": 7.5,
+   "chg1y": 26.0,
+   "stretch": 16.1,
    "range": 100,
    "trend": null,
    "per_day": 0.29,
@@ -2446,7 +2446,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -0.5
   },
   {
    "market": "retro",
@@ -2494,7 +2494,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.9
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -2506,19 +2506,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/killer-instinct-gold",
-   "price": 32.47,
+   "price": 31.8,
    "multiple": null,
-   "mom1": -7.2,
-   "chg1y": 7.9,
-   "stretch": 2.1,
-   "range": 67,
+   "mom1": -9.1,
+   "chg1y": 5.6,
+   "stretch": -0.0,
+   "range": 58,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -2.1
   },
   {
    "market": "retro",
@@ -2554,19 +2554,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/worms-armageddon",
-   "price": 237.28,
+   "price": 222.48,
    "multiple": null,
-   "mom1": 1.4,
-   "chg1y": 31.8,
-   "stretch": 3.0,
-   "range": 64,
+   "mom1": -4.9,
+   "chg1y": 23.6,
+   "stretch": -3.5,
+   "range": 47,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -6.2
   },
   {
    "market": "retro",
@@ -2626,19 +2626,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/007-world-is-not-enough",
-   "price": 49.5,
+   "price": 49.99,
    "multiple": null,
-   "mom1": -1.1,
-   "chg1y": 3.7,
-   "stretch": 0.6,
-   "range": 63,
+   "mom1": -0.1,
+   "chg1y": 4.7,
+   "stretch": 1.6,
+   "range": 66,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 1.0
   },
   {
    "market": "retro",
@@ -2650,19 +2650,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/doom-64",
-   "price": 37.95,
+   "price": 37.15,
    "multiple": null,
-   "mom1": -5.1,
-   "chg1y": -2.3,
-   "stretch": -3.8,
-   "range": 21,
+   "mom1": -7.1,
+   "chg1y": -4.4,
+   "stretch": -5.8,
+   "range": 12,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.6
+   "chg1d": -2.1
   },
   {
    "market": "retro",
@@ -2698,19 +2698,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/harvest-moon-64",
-   "price": 72.29,
+   "price": 63.0,
    "multiple": null,
-   "mom1": -3.6,
-   "chg1y": 34.7,
-   "stretch": 3.7,
-   "range": 79,
+   "mom1": -16.0,
+   "chg1y": 17.4,
+   "stretch": -9.6,
+   "range": 40,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -12.9
   },
   {
    "market": "retro",
@@ -2746,19 +2746,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/f-zero-x",
-   "price": 41.4,
+   "price": 38.95,
    "multiple": null,
-   "mom1": 3.9,
-   "chg1y": 18.3,
-   "stretch": 4.9,
-   "range": 95,
+   "mom1": -2.3,
+   "chg1y": 11.3,
+   "stretch": -1.3,
+   "range": 59,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -5.9
   },
   {
    "market": "retro",
@@ -2796,7 +2796,7 @@
    "url": "https://www.pricecharting.com/game/nintendo-64/1080-snowboarding",
    "price": 14.0,
    "multiple": null,
-   "mom1": -6.7,
+   "mom1": -13.7,
    "chg1y": -1.0,
    "stretch": -9.5,
    "range": 0,
@@ -2806,7 +2806,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -2820,7 +2820,7 @@
    "url": "https://www.pricecharting.com/game/nintendo-64/1080-snowboarding",
    "price": 61.79,
    "multiple": null,
-   "mom1": 12.4,
+   "mom1": 3.1,
    "chg1y": 43.9,
    "stretch": 20.4,
    "range": 100,
@@ -2842,11 +2842,11 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/snowboard-kids-2",
-   "price": 100.0,
+   "price": 100.26,
    "multiple": null,
-   "mom1": -2.4,
-   "chg1y": 46.3,
-   "stretch": 2.7,
+   "mom1": -2.2,
+   "chg1y": 46.7,
+   "stretch": 3.0,
    "range": 72,
    "trend": null,
    "per_day": 1.0,
@@ -2854,7 +2854,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 0.3
   },
   {
    "market": "retro",
@@ -2866,19 +2866,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/snowboard-kids-2",
-   "price": 385.0,
+   "price": 379.99,
    "multiple": null,
-   "mom1": -1.3,
-   "chg1y": 10.0,
-   "stretch": -5.1,
-   "range": 39,
+   "mom1": -2.6,
+   "chg1y": 8.6,
+   "stretch": -6.3,
+   "range": 34,
    "trend": null,
    "per_day": 0.07,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.3
   },
   {
    "market": "retro",
@@ -2892,7 +2892,7 @@
    "url": "https://www.pricecharting.com/game/nintendo-64/clay-fighter-63-13",
    "price": 33.45,
    "multiple": null,
-   "mom1": 6.3,
+   "mom1": 11.5,
    "chg1y": 15.1,
    "stretch": 7.6,
    "range": 76,
@@ -2916,7 +2916,7 @@
    "url": "https://www.pricecharting.com/game/nintendo-64/clay-fighter-63-13",
    "price": 150.0,
    "multiple": null,
-   "mom1": 7.2,
+   "mom1": -4.7,
    "chg1y": 11.1,
    "stretch": 10.1,
    "range": 100,
@@ -2926,7 +2926,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -2938,10 +2938,10 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/quest-64",
-   "price": 29.98,
+   "price": 29.99,
    "multiple": null,
    "mom1": 15.3,
-   "chg1y": 19.9,
+   "chg1y": 20.0,
    "stretch": 11.9,
    "range": 100,
    "trend": null,
@@ -2950,7 +2950,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 7.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -2998,7 +2998,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -3034,19 +3034,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/goemon%27s-great-adventure",
-   "price": 150.0,
+   "price": 160.0,
    "multiple": null,
-   "mom1": 1.7,
-   "chg1y": 27.7,
-   "stretch": 2.8,
-   "range": 75,
+   "mom1": 8.5,
+   "chg1y": 36.2,
+   "stretch": 9.7,
+   "range": 98,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 6.7
   },
   {
    "market": "retro",
@@ -3130,19 +3130,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/wcw-vs-nwo-revenge",
-   "price": 12.88,
+   "price": 12.0,
    "multiple": null,
-   "mom1": -3.2,
-   "chg1y": -8.8,
-   "stretch": -1.6,
-   "range": 40,
+   "mom1": -9.8,
+   "chg1y": -15.0,
+   "stretch": -8.3,
+   "range": 20,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -6.8
   },
   {
    "market": "retro",
@@ -3154,19 +3154,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/wcw-vs-nwo-revenge",
-   "price": 51.34,
+   "price": 51.1,
    "multiple": null,
-   "mom1": 0.5,
-   "chg1y": 28.4,
-   "stretch": 7.6,
-   "range": 86,
+   "mom1": 0.1,
+   "chg1y": 27.8,
+   "stretch": 7.1,
+   "range": 84,
    "trend": null,
    "per_day": 0.14,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -0.5
   },
   {
    "market": "retro",
@@ -3178,19 +3178,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/pilotwings-64",
-   "price": 21.24,
+   "price": 19.99,
    "multiple": null,
-   "mom1": 1.2,
-   "chg1y": 6.3,
-   "stretch": 3.1,
-   "range": 57,
+   "mom1": -4.8,
+   "chg1y": 0.0,
+   "stretch": -3.0,
+   "range": 10,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -5.9
   },
   {
    "market": "retro",
@@ -3202,19 +3202,19 @@
    "platform": "N64",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/nintendo-64/pilotwings-64",
-   "price": 71.22,
+   "price": 70.0,
    "multiple": null,
-   "mom1": -6.2,
-   "chg1y": 31.3,
-   "stretch": 20.5,
-   "range": 83,
+   "mom1": -7.8,
+   "chg1y": 29.1,
+   "stretch": 18.4,
+   "range": 79,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.7
   },
   {
    "market": "retro",
@@ -3322,19 +3322,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/zelda-twilight-princess",
-   "price": 149.95,
+   "price": 161.25,
    "multiple": null,
-   "mom1": -1.7,
-   "chg1y": 30.5,
-   "stretch": 6.0,
-   "range": 91,
+   "mom1": 5.8,
+   "chg1y": 40.3,
+   "stretch": 14.0,
+   "range": 100,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -5.8
+   "chg1d": 7.5
   },
   {
    "market": "retro",
@@ -3346,19 +3346,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/zelda-twilight-princess",
-   "price": 190.0,
+   "price": 191.5,
    "multiple": null,
-   "mom1": -1.8,
-   "chg1y": 27.6,
-   "stretch": 3.6,
-   "range": 80,
+   "mom1": -1.0,
+   "chg1y": 28.6,
+   "stretch": 4.4,
+   "range": 83,
    "trend": null,
    "per_day": 3.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.3
+   "chg1d": 0.8
   },
   {
    "market": "retro",
@@ -3370,19 +3370,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/zelda-wind-waker",
-   "price": 59.8,
+   "price": 60.0,
    "multiple": null,
-   "mom1": -1.2,
-   "chg1y": 29.0,
-   "stretch": 2.1,
-   "range": 87,
+   "mom1": -0.8,
+   "chg1y": 29.4,
+   "stretch": 2.5,
+   "range": 88,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 4.4
+   "chg1d": 0.3
   },
   {
    "market": "retro",
@@ -3394,19 +3394,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/zelda-wind-waker",
-   "price": 80.0,
+   "price": 81.7,
    "multiple": null,
-   "mom1": 2.1,
-   "chg1y": 20.3,
-   "stretch": 4.2,
-   "range": 77,
+   "mom1": 4.3,
+   "chg1y": 22.9,
+   "stretch": 6.4,
+   "range": 87,
    "trend": null,
    "per_day": 4.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 2.1
   },
   {
    "market": "retro",
@@ -3418,19 +3418,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/pokemon-xd-gale-of-darkness",
-   "price": 151.25,
+   "price": 145.25,
    "multiple": null,
-   "mom1": -4.3,
-   "chg1y": 8.0,
-   "stretch": -3.9,
-   "range": 28,
+   "mom1": -8.1,
+   "chg1y": 3.8,
+   "stretch": -7.7,
+   "range": 13,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -4.0
   },
   {
    "market": "retro",
@@ -3442,19 +3442,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/pokemon-xd-gale-of-darkness",
-   "price": 214.11,
+   "price": 190.75,
    "multiple": null,
-   "mom1": 7.1,
-   "chg1y": 3.4,
-   "stretch": 2.1,
-   "range": 58,
+   "mom1": -4.6,
+   "chg1y": -7.9,
+   "stretch": -9.0,
+   "range": 0,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 1.2
+   "chg1d": -10.9
   },
   {
    "market": "retro",
@@ -3466,19 +3466,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/super-smash-bros-melee",
-   "price": 50.57,
+   "price": 53.72,
    "multiple": null,
-   "mom1": 2.6,
-   "chg1y": 3.2,
-   "stretch": -3.4,
-   "range": 21,
+   "mom1": 9.0,
+   "chg1y": 9.6,
+   "stretch": 2.6,
+   "range": 64,
    "trend": null,
    "per_day": 3.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 1.8
+   "chg1d": 6.2
   },
   {
    "market": "retro",
@@ -3490,19 +3490,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/super-smash-bros-melee",
-   "price": 60.0,
+   "price": 61.57,
    "multiple": null,
-   "mom1": -7.7,
-   "chg1y": 5.1,
-   "stretch": -9.1,
-   "range": 19,
+   "mom1": -5.3,
+   "chg1y": 7.8,
+   "stretch": -6.8,
+   "range": 29,
    "trend": null,
    "per_day": 6.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 2.6
   },
   {
    "market": "retro",
@@ -3526,7 +3526,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -6.5
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -3538,12 +3538,12 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/pokemon-colosseum",
-   "price": 157.0,
+   "price": 164.37,
    "multiple": null,
-   "mom1": 1.3,
-   "chg1y": 10.2,
-   "stretch": -3.1,
-   "range": 36,
+   "mom1": 6.0,
+   "chg1y": 15.3,
+   "stretch": 1.5,
+   "range": 54,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
@@ -3586,19 +3586,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-kart-double-dash",
-   "price": 70.0,
+   "price": 68.0,
    "multiple": null,
-   "mom1": -4.4,
-   "chg1y": 0.0,
-   "stretch": -5.2,
-   "range": 13,
+   "mom1": -7.2,
+   "chg1y": -2.8,
+   "stretch": -7.9,
+   "range": 0,
    "trend": null,
    "per_day": 4.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -2.9
   },
   {
    "market": "retro",
@@ -3622,7 +3622,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -3646,7 +3646,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 6.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -3682,19 +3682,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/luigi's-mansion",
-   "price": 60.0,
+   "price": 60.5,
    "multiple": null,
-   "mom1": -5.7,
-   "chg1y": 1.7,
-   "stretch": -2.5,
-   "range": 26,
+   "mom1": -4.9,
+   "chg1y": 2.6,
+   "stretch": -1.7,
+   "range": 32,
    "trend": null,
    "per_day": 4.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 0.8
   },
   {
    "market": "retro",
@@ -3790,7 +3790,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -3838,7 +3838,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -3850,19 +3850,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/metroid-prime",
-   "price": 17.77,
+   "price": 18.31,
    "multiple": null,
-   "mom1": -1.8,
-   "chg1y": -10.6,
-   "stretch": -0.6,
-   "range": 59,
+   "mom1": 1.2,
+   "chg1y": -7.9,
+   "stretch": 2.4,
+   "range": 70,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 3.0
   },
   {
    "market": "retro",
@@ -3874,11 +3874,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/metroid-prime",
-   "price": 29.98,
+   "price": 29.12,
    "multiple": null,
-   "mom1": 15.0,
-   "chg1y": 34.6,
-   "stretch": 17.0,
+   "mom1": 11.7,
+   "chg1y": 30.7,
+   "stretch": 13.6,
    "range": 100,
    "trend": null,
    "per_day": 3.0,
@@ -3886,7 +3886,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 3.4
+   "chg1d": -2.9
   },
   {
    "market": "retro",
@@ -3898,19 +3898,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/resident-evil-4",
-   "price": 41.83,
+   "price": 34.99,
    "multiple": null,
-   "mom1": 13.4,
-   "chg1y": 61.6,
-   "stretch": 34.1,
-   "range": 98,
+   "mom1": -5.2,
+   "chg1y": 35.1,
+   "stretch": 12.2,
+   "range": 63,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -16.4
   },
   {
    "market": "retro",
@@ -3922,19 +3922,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/resident-evil-4",
-   "price": 49.42,
+   "price": 49.06,
    "multiple": null,
-   "mom1": 13.6,
-   "chg1y": 52.1,
-   "stretch": 14.4,
-   "range": 74,
+   "mom1": 12.7,
+   "chg1y": 51.0,
+   "stretch": 13.6,
+   "range": 72,
    "trend": null,
    "per_day": 3.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -0.7
   },
   {
    "market": "retro",
@@ -3946,19 +3946,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/resident-evil",
-   "price": 31.32,
+   "price": 34.49,
    "multiple": null,
-   "mom1": 11.9,
-   "chg1y": 74.1,
-   "stretch": 27.1,
-   "range": 90,
+   "mom1": 23.2,
+   "chg1y": 91.7,
+   "stretch": 39.9,
+   "range": 100,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 10.1
   },
   {
    "market": "retro",
@@ -3994,19 +3994,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/eternal-darkness",
-   "price": 77.0,
+   "price": 74.02,
    "multiple": null,
-   "mom1": 6.1,
-   "chg1y": 12.7,
-   "stretch": 1.8,
-   "range": 51,
+   "mom1": 2.0,
+   "chg1y": 8.3,
+   "stretch": -2.2,
+   "range": 33,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -3.9
   },
   {
    "market": "retro",
@@ -4042,19 +4042,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/pokemon-box",
-   "price": 1508,
+   "price": 1518,
    "multiple": null,
-   "mom1": -1.7,
-   "chg1y": -5.7,
-   "stretch": -3.6,
-   "range": 55,
+   "mom1": -1.0,
+   "chg1y": -5.2,
+   "stretch": -3.0,
+   "range": 57,
    "trend": null,
    "per_day": 0.03,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 0.6
   },
   {
    "market": "retro",
@@ -4066,19 +4066,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/pokemon-box",
-   "price": 2388,
+   "price": 2227,
    "multiple": null,
-   "mom1": 3.9,
-   "chg1y": 23.5,
-   "stretch": 2.4,
-   "range": 80,
+   "mom1": -3.1,
+   "chg1y": 15.2,
+   "stretch": -4.5,
+   "range": 52,
    "trend": null,
    "per_day": 0.14,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -6.7
   },
   {
    "market": "retro",
@@ -4090,19 +4090,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-party-7",
-   "price": 37.42,
+   "price": 36.0,
    "multiple": null,
-   "mom1": -0.8,
-   "chg1y": 4.7,
-   "stretch": -2.9,
-   "range": 39,
+   "mom1": -4.5,
+   "chg1y": 0.8,
+   "stretch": -6.6,
+   "range": 6,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -3.8
   },
   {
    "market": "retro",
@@ -4114,19 +4114,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-party-7",
-   "price": 52.39,
+   "price": 54.92,
    "multiple": null,
-   "mom1": -9.7,
-   "chg1y": 13.4,
-   "stretch": -2.5,
-   "range": 53,
+   "mom1": -5.3,
+   "chg1y": 18.9,
+   "stretch": 2.2,
+   "range": 74,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 4.8
   },
   {
    "market": "retro",
@@ -4174,7 +4174,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4198,7 +4198,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4210,19 +4210,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/sonic-adventure-2-battle",
-   "price": 64.5,
+   "price": 62.25,
    "multiple": null,
-   "mom1": 15.2,
-   "chg1y": 20.3,
-   "stretch": 2.2,
-   "range": 60,
+   "mom1": 11.2,
+   "chg1y": 16.1,
+   "stretch": -1.3,
+   "range": 48,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.2
+   "chg1d": -3.5
   },
   {
    "market": "retro",
@@ -4234,11 +4234,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/animal-crossing",
-   "price": 41.75,
+   "price": 43.23,
    "multiple": null,
-   "mom1": -7.2,
-   "chg1y": -7.2,
-   "stretch": -16.3,
+   "mom1": -3.9,
+   "chg1y": -3.9,
+   "stretch": -13.3,
    "range": 0,
    "trend": null,
    "per_day": 1.0,
@@ -4246,7 +4246,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -7.2
+   "chg1d": 3.5
   },
   {
    "market": "retro",
@@ -4258,19 +4258,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/animal-crossing",
-   "price": 64.0,
+   "price": 65.0,
    "multiple": null,
-   "mom1": -7.3,
-   "chg1y": 11.5,
-   "stretch": -6.9,
-   "range": 29,
+   "mom1": -5.8,
+   "chg1y": 13.2,
+   "stretch": -5.4,
+   "range": 34,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 5.9
+   "chg1d": 1.6
   },
   {
    "market": "retro",
@@ -4306,19 +4306,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/resident-evil-zero",
-   "price": 29.24,
+   "price": 27.43,
    "multiple": null,
-   "mom1": -0.6,
-   "chg1y": 46.3,
-   "stretch": 18.3,
-   "range": 98,
+   "mom1": -6.8,
+   "chg1y": 37.2,
+   "stretch": 11.0,
+   "range": 79,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -6.2
   },
   {
    "market": "retro",
@@ -4342,7 +4342,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 8.3
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4414,7 +4414,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.2
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4476,7 +4476,7 @@
    "url": "https://www.pricecharting.com/game/gamecube/resident-evil-3-nemesis",
    "price": 100.0,
    "multiple": null,
-   "mom1": 5.3,
+   "mom1": 0.0,
    "chg1y": 47.6,
    "stretch": 16.1,
    "range": 84,
@@ -4498,19 +4498,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/resident-evil-3-nemesis",
-   "price": 149.98,
+   "price": 147.99,
    "multiple": null,
-   "mom1": -5.4,
-   "chg1y": 50.0,
-   "stretch": 3.1,
-   "range": 64,
+   "mom1": 2.1,
+   "chg1y": 48.0,
+   "stretch": 1.7,
+   "range": 61,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.3
   },
   {
    "market": "retro",
@@ -4522,19 +4522,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-party-6",
-   "price": 69.98,
+   "price": 69.43,
    "multiple": null,
-   "mom1": 0.0,
-   "chg1y": 15.5,
-   "stretch": 4.2,
-   "range": 76,
+   "mom1": -0.8,
+   "chg1y": 14.6,
+   "stretch": 3.4,
+   "range": 71,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -0.8
   },
   {
    "market": "retro",
@@ -4546,11 +4546,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-party-6",
-   "price": 97.99,
+   "price": 99.99,
    "multiple": null,
-   "mom1": 2.4,
-   "chg1y": 15.3,
-   "stretch": 7.8,
+   "mom1": 4.5,
+   "chg1y": 17.6,
+   "stretch": 10.0,
    "range": 100,
    "trend": null,
    "per_day": 1.0,
@@ -4558,7 +4558,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 2.0
   },
   {
    "market": "retro",
@@ -4594,11 +4594,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/zelda-four-swords-adventures",
-   "price": 84.99,
+   "price": 90.73,
    "multiple": null,
-   "mom1": 3.9,
-   "chg1y": 17.2,
-   "stretch": 10.4,
+   "mom1": 10.9,
+   "chg1y": 25.1,
+   "stretch": 17.8,
    "range": 100,
    "trend": null,
    "per_day": 2.0,
@@ -4606,7 +4606,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 1.2
+   "chg1d": 6.8
   },
   {
    "market": "retro",
@@ -4630,7 +4630,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4654,7 +4654,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.3
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4714,19 +4714,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-party-4",
-   "price": 42.0,
+   "price": 40.5,
    "multiple": null,
-   "mom1": 0.0,
-   "chg1y": -9.7,
-   "stretch": -9.0,
-   "range": 14,
+   "mom1": -3.6,
+   "chg1y": -12.9,
+   "stretch": -12.2,
+   "range": 0,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -3.6
   },
   {
    "market": "retro",
@@ -4738,19 +4738,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-party-4",
-   "price": 62.11,
+   "price": 59.99,
    "multiple": null,
-   "mom1": 3.6,
-   "chg1y": 2.4,
-   "stretch": 2.3,
-   "range": 67,
+   "mom1": 0.0,
+   "chg1y": -1.1,
+   "stretch": -1.2,
+   "range": 50,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -3.4
   },
   {
    "market": "retro",
@@ -4786,19 +4786,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/chibi-robo",
-   "price": 200.0,
+   "price": 204.95,
    "multiple": null,
-   "mom1": 0.0,
-   "chg1y": -1.5,
-   "stretch": -3.5,
-   "range": 0,
+   "mom1": 2.5,
+   "chg1y": 0.9,
+   "stretch": -1.1,
+   "range": 24,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 2.5
   },
   {
    "market": "retro",
@@ -4822,7 +4822,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.9
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4846,7 +4846,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.3
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4858,19 +4858,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/metal-gear-solid-twin-snakes",
-   "price": 76.5,
+   "price": 75.0,
    "multiple": null,
-   "mom1": 2.0,
-   "chg1y": 4.2,
-   "stretch": 3.5,
-   "range": 74,
+   "mom1": 0.0,
+   "chg1y": 2.2,
+   "stretch": 1.5,
+   "range": 63,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -2.0
   },
   {
    "market": "retro",
@@ -4882,19 +4882,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/metal-gear-solid-twin-snakes",
-   "price": 109.99,
+   "price": 108.14,
    "multiple": null,
-   "mom1": -4.6,
-   "chg1y": 10.1,
-   "stretch": 2.8,
-   "range": 66,
+   "mom1": -6.2,
+   "chg1y": 8.2,
+   "stretch": 1.1,
+   "range": 57,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.7
   },
   {
    "market": "retro",
@@ -4918,7 +4918,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 7.0
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4942,7 +4942,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -4990,7 +4990,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 3.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5026,11 +5026,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-party-5",
-   "price": 64.13,
+   "price": 64.19,
    "multiple": null,
-   "mom1": 1.2,
-   "chg1y": 15.5,
-   "stretch": -1.0,
+   "mom1": 1.3,
+   "chg1y": 15.7,
+   "stretch": -0.9,
    "range": 59,
    "trend": null,
    "per_day": 1.0,
@@ -5038,7 +5038,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 0.1
   },
   {
    "market": "retro",
@@ -5074,19 +5074,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/f-zero-gx",
-   "price": 78.85,
+   "price": 78.69,
    "multiple": null,
-   "mom1": -1.4,
-   "chg1y": 5.1,
-   "stretch": 4.4,
-   "range": 65,
+   "mom1": -1.6,
+   "chg1y": 4.9,
+   "stretch": 4.2,
+   "range": 64,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.8
+   "chg1d": -0.2
   },
   {
    "market": "retro",
@@ -5110,7 +5110,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -13.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5134,7 +5134,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 3.4
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5158,7 +5158,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 5.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5170,11 +5170,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/shadow-the-hedgehog",
-   "price": 57.5,
+   "price": 60.0,
    "multiple": null,
-   "mom1": -14.2,
-   "chg1y": -18.2,
-   "stretch": -17.3,
+   "mom1": -10.4,
+   "chg1y": -14.6,
+   "stretch": -13.7,
    "range": 0,
    "trend": null,
    "per_day": 2.0,
@@ -5182,7 +5182,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -11.5
+   "chg1d": 4.3
   },
   {
    "market": "retro",
@@ -5194,19 +5194,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/soul-calibur-ii",
-   "price": 18.23,
+   "price": 17.74,
    "multiple": null,
-   "mom1": -6.3,
-   "chg1y": -27.1,
-   "stretch": -6.4,
-   "range": 32,
+   "mom1": -8.8,
+   "chg1y": -29.0,
+   "stretch": -8.9,
+   "range": 27,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -2.7
   },
   {
    "market": "retro",
@@ -5218,19 +5218,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/soul-calibur-ii",
-   "price": 30.0,
+   "price": 33.0,
    "multiple": null,
-   "mom1": -10.4,
-   "chg1y": -2.4,
-   "stretch": -3.0,
-   "range": 17,
+   "mom1": -1.5,
+   "chg1y": 7.4,
+   "stretch": 6.7,
+   "range": 88,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 10.0
   },
   {
    "market": "retro",
@@ -5254,7 +5254,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -6.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5266,19 +5266,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/skies-of-arcadia-legends",
-   "price": 162.22,
+   "price": 174.19,
    "multiple": null,
-   "mom1": -8.7,
-   "chg1y": 29.8,
-   "stretch": -0.6,
-   "range": 57,
+   "mom1": -2.0,
+   "chg1y": 39.4,
+   "stretch": 6.7,
+   "range": 76,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -5.6
+   "chg1d": 7.4
   },
   {
    "market": "retro",
@@ -5326,7 +5326,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -1.3
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5386,19 +5386,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/wario-world",
-   "price": 56.46,
+   "price": 57.25,
    "multiple": null,
-   "mom1": -1.2,
-   "chg1y": 10.8,
-   "stretch": -6.2,
-   "range": 39,
+   "mom1": 0.2,
+   "chg1y": 12.4,
+   "stretch": -4.9,
+   "range": 45,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.1
+   "chg1d": 1.4
   },
   {
    "market": "retro",
@@ -5410,11 +5410,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/wario-world",
-   "price": 75.0,
+   "price": 75.5,
    "multiple": null,
-   "mom1": -6.2,
-   "chg1y": -6.8,
-   "stretch": -11.2,
+   "mom1": -5.6,
+   "chg1y": -6.2,
+   "stretch": -10.6,
    "range": 0,
    "trend": null,
    "per_day": 1.0,
@@ -5422,7 +5422,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.8
+   "chg1d": 0.7
   },
   {
    "market": "retro",
@@ -5446,7 +5446,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.5
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5470,7 +5470,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -2.8
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5482,19 +5482,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/mario-golf-toadstool-tour",
-   "price": 19.57,
+   "price": 19.18,
    "multiple": null,
-   "mom1": -1.9,
-   "chg1y": 19.4,
-   "stretch": -0.3,
-   "range": 31,
+   "mom1": -3.9,
+   "chg1y": 17.0,
+   "stretch": -2.3,
+   "range": 27,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -2.0
   },
   {
    "market": "retro",
@@ -5530,19 +5530,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/sonic-heroes",
-   "price": 21.99,
+   "price": 22.99,
    "multiple": null,
-   "mom1": -2.7,
-   "chg1y": -8.3,
-   "stretch": -11.1,
-   "range": 0,
+   "mom1": -4.0,
+   "chg1y": -4.2,
+   "stretch": -7.1,
+   "range": 7,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 4.5
   },
   {
    "market": "retro",
@@ -5554,19 +5554,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/sonic-heroes",
-   "price": 31.14,
+   "price": 34.1,
    "multiple": null,
-   "mom1": -12.9,
-   "chg1y": -10.9,
-   "stretch": -13.0,
-   "range": 0,
+   "mom1": -8.9,
+   "chg1y": -2.5,
+   "stretch": -4.7,
+   "range": 19,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 9.5
   },
   {
    "market": "retro",
@@ -5614,7 +5614,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 15.4
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5626,19 +5626,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/sonic-mega-collection",
-   "price": 12.99,
+   "price": 11.99,
    "multiple": null,
-   "mom1": 25.4,
-   "chg1y": 21.3,
-   "stretch": 9.0,
-   "range": 68,
+   "mom1": 15.7,
+   "chg1y": 12.0,
+   "stretch": 0.6,
+   "range": 42,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -7.7
   },
   {
    "market": "retro",
@@ -5650,19 +5650,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/sonic-mega-collection",
-   "price": 14.99,
+   "price": 14.27,
    "multiple": null,
-   "mom1": -5.1,
-   "chg1y": -14.3,
-   "stretch": -5.5,
-   "range": 24,
+   "mom1": -9.7,
+   "chg1y": -18.4,
+   "stretch": -10.0,
+   "range": 7,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -4.8
   },
   {
    "market": "retro",
@@ -5710,7 +5710,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -4.8
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5758,7 +5758,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 2.4
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5818,19 +5818,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/godzilla-destroy-all-monsters-melee",
-   "price": 35.25,
+   "price": 38.49,
    "multiple": null,
-   "mom1": -6.1,
-   "chg1y": 10.7,
-   "stretch": 2.3,
-   "range": 49,
+   "mom1": 2.5,
+   "chg1y": 20.9,
+   "stretch": 11.7,
+   "range": 82,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 9.2
   },
   {
    "market": "retro",
@@ -5878,7 +5878,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 7.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5902,7 +5902,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -5.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5974,7 +5974,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 11.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -5998,7 +5998,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -8.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6034,11 +6034,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/go-go-hypergrind",
-   "price": 533.26,
+   "price": 534.4,
    "multiple": null,
-   "mom1": 3.1,
-   "chg1y": 36.8,
-   "stretch": 19.9,
+   "mom1": 3.3,
+   "chg1y": 37.1,
+   "stretch": 20.1,
    "range": 100,
    "trend": null,
    "per_day": 0.29,
@@ -6046,7 +6046,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 3.1
+   "chg1d": 0.2
   },
   {
    "market": "retro",
@@ -6070,7 +6070,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 5.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6082,19 +6082,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/harvest-moon-a-wonderful-life",
-   "price": 20.95,
+   "price": 21.17,
    "multiple": null,
-   "mom1": 4.7,
-   "chg1y": -5.0,
-   "stretch": -2.4,
-   "range": 25,
+   "mom1": 5.8,
+   "chg1y": -4.0,
+   "stretch": -1.4,
+   "range": 30,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -6.8
+   "chg1d": 1.1
   },
   {
    "market": "retro",
@@ -6106,19 +6106,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/viewtiful-joe",
-   "price": 25.22,
+   "price": 24.99,
    "multiple": null,
-   "mom1": 7.0,
-   "chg1y": 6.3,
-   "stretch": 1.6,
-   "range": 48,
+   "mom1": 6.1,
+   "chg1y": 5.4,
+   "stretch": 0.7,
+   "range": 46,
    "trend": null,
    "per_day": 0.29,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -0.9
   },
   {
    "market": "retro",
@@ -6130,19 +6130,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/viewtiful-joe",
-   "price": 40.0,
+   "price": 39.0,
    "multiple": null,
-   "mom1": 0.0,
-   "chg1y": 30.3,
-   "stretch": 2.0,
-   "range": 57,
+   "mom1": -2.5,
+   "chg1y": 27.1,
+   "stretch": -0.5,
+   "range": 51,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -2.5
   },
   {
    "market": "retro",
@@ -6190,7 +6190,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.3
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6238,7 +6238,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -4.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6250,11 +6250,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/billy-hatcher-and-the-giant-egg",
-   "price": 58.48,
+   "price": 58.5,
    "multiple": null,
-   "mom1": -0.9,
+   "mom1": -0.8,
    "chg1y": 17.0,
-   "stretch": 0.9,
+   "stretch": 1.0,
    "range": 57,
    "trend": null,
    "per_day": 0.29,
@@ -6274,19 +6274,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/billy-hatcher-and-the-giant-egg",
-   "price": 83.5,
+   "price": 80.0,
    "multiple": null,
-   "mom1": -1.8,
-   "chg1y": 13.2,
-   "stretch": -6.5,
-   "range": 32,
+   "mom1": -5.9,
+   "chg1y": 8.5,
+   "stretch": -10.4,
+   "range": 21,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -4.2
   },
   {
    "market": "retro",
@@ -6322,11 +6322,11 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/gotcha-force",
-   "price": 520.0,
+   "price": 525.74,
    "multiple": null,
-   "mom1": 2.3,
-   "chg1y": 24.7,
-   "stretch": 16.2,
+   "mom1": 1.9,
+   "chg1y": 26.1,
+   "stretch": 17.4,
    "range": 100,
    "trend": null,
    "per_day": 0.14,
@@ -6334,7 +6334,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": 1.1
   },
   {
    "market": "retro",
@@ -6358,7 +6358,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.6
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6382,7 +6382,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -3.1
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6406,7 +6406,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 17.2
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6430,7 +6430,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -4.7
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6478,7 +6478,7 @@
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": -0.8
+   "chg1d": 0.0
   },
   {
    "market": "retro",
@@ -6490,19 +6490,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/custom-robo",
-   "price": 45.72,
+   "price": 45.0,
    "multiple": null,
-   "mom1": 4.7,
-   "chg1y": 2.9,
-   "stretch": 5.0,
-   "range": 71,
+   "mom1": 3.1,
+   "chg1y": 1.2,
+   "stretch": 3.4,
+   "range": 62,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -1.6
   },
   {
    "market": "retro",
@@ -6514,19 +6514,19 @@
    "platform": "GameCube",
    "launch_price": null,
    "url": "https://www.pricecharting.com/game/gamecube/custom-robo",
-   "price": 74.99,
+   "price": 74.34,
    "multiple": null,
-   "mom1": -3.2,
-   "chg1y": 39.5,
-   "stretch": 6.7,
-   "range": 70,
+   "mom1": -4.1,
+   "chg1y": 38.3,
+   "stretch": 5.7,
+   "range": 68,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": null,
    "stale": false,
    "price_type": "console price list",
-   "chg1d": 0.0
+   "chg1d": -0.9
   },
   {
    "market": "pokemon",
@@ -6564,14 +6564,14 @@
    "url": "https://www.pricecharting.com/game/pokemon-rebel-clash/booster-box",
    "price": 444.33,
    "multiple": 3.09,
-   "mom1": 4.3,
+   "mom1": 1.1,
    "chg1y": 12.0,
    "stretch": 3.8,
    "range": 69,
    "trend": null,
    "per_day": 0.07,
    "n7": null,
-   "age_m": 78.6,
+   "age_m": 78.7,
    "stale": false,
    "price_type": null,
    "chg1d": 0.0
@@ -6598,7 +6598,7 @@
    "age_m": 75.2,
    "stale": false,
    "price_type": "search list",
-   "chg1d": -2.8
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -6610,19 +6610,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-champion%27s-path/elite-trainer-box",
-   "price": 165.25,
-   "multiple": 3.31,
-   "mom1": -6.9,
-   "chg1y": 24.7,
-   "stretch": 1.3,
-   "range": 60,
+   "price": 170.88,
+   "multiple": 3.42,
+   "mom1": -3.7,
+   "chg1y": 29.0,
+   "stretch": 4.7,
+   "range": 70,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": 73.8,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 3.4
   },
   {
    "market": "pokemon",
@@ -6634,19 +6634,19 @@
    "platform": null,
    "launch_price": 143.64,
    "url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/booster-box",
-   "price": 296.32,
-   "multiple": 2.06,
-   "mom1": -0.4,
-   "chg1y": 22.2,
-   "stretch": 5.3,
-   "range": 77,
+   "price": 296.75,
+   "multiple": 2.07,
+   "mom1": -0.3,
+   "chg1y": 22.4,
+   "stretch": 5.5,
+   "range": 78,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": 72.2,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 0.1
   },
   {
    "market": "pokemon",
@@ -6658,19 +6658,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-shining-fates/elite-trainer-box",
-   "price": 135.0,
-   "multiple": 2.7,
-   "mom1": 4.4,
-   "chg1y": 53.4,
-   "stretch": 13.0,
-   "range": 85,
+   "price": 124.52,
+   "multiple": 2.49,
+   "mom1": -3.7,
+   "chg1y": 41.5,
+   "stretch": 4.2,
+   "range": 66,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 68.9,
+   "age_m": 69.0,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -7.8
   },
   {
    "market": "pokemon",
@@ -6682,19 +6682,19 @@
    "platform": null,
    "launch_price": 143.64,
    "url": "https://www.pricecharting.com/game/pokemon-battle-styles/booster-box",
-   "price": 270.0,
-   "multiple": 1.88,
-   "mom1": -6.2,
-   "chg1y": 24.5,
-   "stretch": 5.4,
-   "range": 75,
+   "price": 275.47,
+   "multiple": 1.92,
+   "mom1": -4.4,
+   "chg1y": 27.0,
+   "stretch": 7.5,
+   "range": 82,
    "trend": null,
    "per_day": 2.0,
    "n7": null,
-   "age_m": 68.0,
+   "age_m": 68.1,
    "stale": false,
    "price_type": "search list",
-   "chg1d": -0.7
+   "chg1d": 2.0
   },
   {
    "market": "pokemon",
@@ -6706,19 +6706,19 @@
    "platform": null,
    "launch_price": 143.64,
    "url": "https://www.pricecharting.com/game/pokemon-chilling-reign/booster-box",
-   "price": 437.94,
-   "multiple": 3.05,
-   "mom1": 0.1,
-   "chg1y": 1.8,
-   "stretch": -5.6,
-   "range": 8,
+   "price": 427.24,
+   "multiple": 2.97,
+   "mom1": -2.3,
+   "chg1y": -0.6,
+   "stretch": -7.9,
+   "range": 0,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 65.0,
+   "age_m": 65.1,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -2.4
   },
   {
    "market": "pokemon",
@@ -6739,10 +6739,10 @@
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 62.7,
+   "age_m": 62.8,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 1.7
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -6754,19 +6754,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-celebrations/elite-trainer-box",
-   "price": 302.48,
-   "multiple": 6.05,
-   "mom1": -1.5,
-   "chg1y": 32.1,
-   "stretch": -3.1,
-   "range": 46,
+   "price": 260.87,
+   "multiple": 5.22,
+   "mom1": -15.0,
+   "chg1y": 13.9,
+   "stretch": -16.4,
+   "range": 20,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 61.3,
+   "age_m": 61.4,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -13.8
   },
   {
    "market": "pokemon",
@@ -6787,10 +6787,10 @@
    "trend": null,
    "per_day": 2.0,
    "n7": null,
-   "age_m": 60.2,
+   "age_m": 60.3,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 1.5
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -6802,19 +6802,19 @@
    "platform": null,
    "launch_price": 143.64,
    "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/booster-box",
-   "price": 547.81,
-   "multiple": 3.81,
-   "mom1": 1.4,
-   "chg1y": 21.7,
-   "stretch": -1.7,
-   "range": 63,
+   "price": 530.78,
+   "multiple": 3.7,
+   "mom1": -1.7,
+   "chg1y": 18.0,
+   "stretch": -4.7,
+   "range": 52,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 56.7,
+   "age_m": 56.8,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -3.1
   },
   {
    "market": "pokemon",
@@ -6838,7 +6838,7 @@
    "age_m": 53.8,
    "stale": false,
    "price_type": "search list",
-   "chg1d": -7.6
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -6852,17 +6852,17 @@
    "url": "https://www.pricecharting.com/game/pokemon-go/elite-trainer-box",
    "price": 167.42,
    "multiple": 3.35,
-   "mom1": 1.5,
+   "mom1": -1.3,
    "chg1y": 64.9,
    "stretch": 30.0,
    "range": 100,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 52.6,
+   "age_m": 52.7,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 2.4
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -6883,7 +6883,7 @@
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 50.3,
+   "age_m": 50.4,
    "stale": false,
    "price_type": "search list",
    "chg1d": 0.0
@@ -6907,10 +6907,10 @@
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 48.2,
+   "age_m": 48.3,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.9
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -6922,19 +6922,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-crown-zenith/elite-trainer-box",
-   "price": 306.57,
-   "multiple": 6.13,
-   "mom1": 5.7,
-   "chg1y": 71.6,
-   "stretch": 11.6,
-   "range": 91,
+   "price": 314.98,
+   "multiple": 6.3,
+   "mom1": 8.6,
+   "chg1y": 76.4,
+   "stretch": 14.6,
+   "range": 96,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 45.9,
+   "age_m": 46.0,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 2.7
   },
   {
    "market": "pokemon",
@@ -6946,19 +6946,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/base-set-booster-box",
-   "price": 262.59,
-   "multiple": 1.62,
-   "mom1": -10.7,
-   "chg1y": 14.7,
-   "stretch": -2.8,
-   "range": 50,
+   "price": 269.26,
+   "multiple": 1.67,
+   "mom1": -8.4,
+   "chg1y": 17.7,
+   "stretch": -0.3,
+   "range": 58,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 43.6,
+   "age_m": 43.7,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 2.5
   },
   {
    "market": "pokemon",
@@ -6970,19 +6970,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/booster-box",
-   "price": 460.5,
-   "multiple": 2.85,
-   "mom1": 2.1,
-   "chg1y": 34.3,
-   "stretch": 4.7,
-   "range": 80,
+   "price": 466.53,
+   "multiple": 2.89,
+   "mom1": 3.4,
+   "chg1y": 36.0,
+   "stretch": 6.0,
+   "range": 84,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 41.3,
+   "age_m": 41.4,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 1.3
   },
   {
    "market": "pokemon",
@@ -6994,19 +6994,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/booster-box",
-   "price": 366.93,
-   "multiple": 2.27,
-   "mom1": 0.1,
-   "chg1y": 28.7,
-   "stretch": 8.4,
-   "range": 87,
+   "price": 360.0,
+   "multiple": 2.23,
+   "mom1": -1.8,
+   "chg1y": 26.3,
+   "stretch": 6.3,
+   "range": 80,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 39.2,
+   "age_m": 39.3,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -1.9
   },
   {
    "market": "pokemon",
@@ -7054,7 +7054,7 @@
    "age_m": 36.5,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 1.1
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7066,19 +7066,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-paldean-fates/elite-trainer-box",
-   "price": 405.0,
-   "multiple": 8.1,
-   "mom1": -3.7,
-   "chg1y": 69.9,
-   "stretch": 8.4,
-   "range": 73,
+   "price": 417.87,
+   "multiple": 8.36,
+   "mom1": -0.6,
+   "chg1y": 75.3,
+   "stretch": 11.9,
+   "range": 79,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 33.7,
+   "age_m": 33.8,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 3.2
   },
   {
    "market": "pokemon",
@@ -7102,7 +7102,7 @@
    "age_m": 31.9,
    "stale": false,
    "price_type": "search list",
-   "chg1d": -0.1
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7123,10 +7123,10 @@
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 29.8,
+   "age_m": 29.9,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 6.5
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7147,10 +7147,10 @@
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 27.5,
+   "age_m": 27.6,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 1.5
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7162,19 +7162,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-stellar-crown/booster-box",
-   "price": 302.27,
-   "multiple": 1.87,
-   "mom1": 2.5,
-   "chg1y": 19.0,
-   "stretch": 5.2,
-   "range": 69,
+   "price": 306.52,
+   "multiple": 1.9,
+   "mom1": 3.9,
+   "chg1y": 20.7,
+   "stretch": 6.6,
+   "range": 74,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 26.1,
+   "age_m": 26.2,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 1.4
   },
   {
    "market": "pokemon",
@@ -7186,19 +7186,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-surging-sparks/booster-box",
-   "price": 299.99,
-   "multiple": 1.86,
-   "mom1": 4.1,
-   "chg1y": 34.6,
-   "stretch": 12.4,
-   "range": 100,
+   "price": 298.13,
+   "multiple": 1.84,
+   "mom1": 3.5,
+   "chg1y": 33.8,
+   "stretch": 11.7,
+   "range": 98,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": 24.3,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -0.6
   },
   {
    "market": "pokemon",
@@ -7222,7 +7222,7 @@
    "age_m": 22.0,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 1.9
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7234,11 +7234,11 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-journey-together/booster-box",
-   "price": 198.57,
-   "multiple": 1.23,
-   "mom1": -3.1,
-   "chg1y": -14.1,
-   "stretch": -16.1,
+   "price": 196.53,
+   "multiple": 1.22,
+   "mom1": -4.1,
+   "chg1y": -15.0,
+   "stretch": -16.9,
    "range": 0,
    "trend": null,
    "per_day": 1.0,
@@ -7246,7 +7246,7 @@
    "age_m": 19.7,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -1.0
   },
   {
    "market": "pokemon",
@@ -7258,19 +7258,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-destined-rivals/booster-box",
-   "price": 369.56,
-   "multiple": 2.29,
-   "mom1": -7.4,
-   "chg1y": -1.5,
-   "stretch": -21.1,
+   "price": 360.31,
+   "multiple": 2.23,
+   "mom1": -9.8,
+   "chg1y": -3.9,
+   "stretch": -23.0,
    "range": 0,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 17.6,
+   "age_m": 17.7,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.1
+   "chg1d": -2.5
   },
   {
    "market": "pokemon",
@@ -7291,10 +7291,10 @@
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 16.0,
+   "age_m": 16.1,
    "stale": false,
    "price_type": "search list",
-   "chg1d": -2.7
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7306,19 +7306,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-white-flare/elite-trainer-box",
-   "price": 141.38,
-   "multiple": 2.83,
-   "mom1": 1.7,
-   "chg1y": 95.7,
-   "stretch": 30.7,
-   "range": 94,
+   "price": 131.0,
+   "multiple": 2.62,
+   "mom1": -5.7,
+   "chg1y": 81.3,
+   "stretch": 21.1,
+   "range": 80,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 16.0,
+   "age_m": 16.1,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -7.3
   },
   {
    "market": "pokemon",
@@ -7330,19 +7330,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-mega-evolution/booster-box",
-   "price": 212.13,
-   "multiple": 1.31,
-   "mom1": -3.6,
-   "chg1y": -7.6,
-   "stretch": -15.4,
-   "range": 15,
+   "price": 195.64,
+   "multiple": 1.21,
+   "mom1": -11.1,
+   "chg1y": -14.8,
+   "stretch": -22.0,
+   "range": 0,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 13.7,
+   "age_m": 13.8,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -7.8
   },
   {
    "market": "pokemon",
@@ -7366,7 +7366,7 @@
    "age_m": 12.1,
    "stale": false,
    "price_type": "search list",
-   "chg1d": -0.1
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7378,19 +7378,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/elite-trainer-box",
-   "price": 123.21,
-   "multiple": 2.46,
-   "mom1": -3.8,
+   "price": 126.75,
+   "multiple": 2.54,
+   "mom1": -1.1,
    "chg1y": null,
-   "stretch": -14.9,
-   "range": 10,
+   "stretch": -12.4,
+   "range": 17,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
-   "age_m": 9.5,
+   "age_m": 9.6,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 2.9
   },
   {
    "market": "pokemon",
@@ -7402,19 +7402,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-perfect-order/booster-box",
-   "price": 164.35,
+   "price": 164.5,
    "multiple": 1.02,
-   "mom1": -4.9,
+   "mom1": -4.8,
    "chg1y": null,
    "stretch": -14.4,
    "range": 0,
    "trend": null,
    "per_day": 0.43,
    "n7": null,
-   "age_m": 7.7,
+   "age_m": 7.8,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 0.1
   },
   {
    "market": "pokemon",
@@ -7426,19 +7426,19 @@
    "platform": null,
    "launch_price": 161.64,
    "url": "https://www.pricecharting.com/game/pokemon-chaos-rising/booster-box",
-   "price": 167.32,
-   "multiple": 1.04,
+   "price": 167.2,
+   "multiple": 1.03,
    "mom1": 0.7,
    "chg1y": null,
-   "stretch": -18.9,
-   "range": 2,
+   "stretch": -19.0,
+   "range": 1,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
    "age_m": 5.9,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": -0.1
   },
   {
    "market": "pokemon",
@@ -7459,10 +7459,10 @@
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 4.0,
+   "age_m": 4.1,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 8.1
+   "chg1d": 0.0
   },
   {
    "market": "pokemon",
@@ -7474,19 +7474,19 @@
    "platform": null,
    "launch_price": 49.99,
    "url": "https://www.pricecharting.com/game/pokemon-30th-celebration/elite-trainer-box",
-   "price": 115.9,
-   "multiple": 2.32,
-   "mom1": -6.9,
+   "price": 117.25,
+   "multiple": 2.35,
+   "mom1": -5.8,
    "chg1y": null,
    "stretch": null,
    "range": null,
    "trend": null,
    "per_day": 1.0,
    "n7": null,
-   "age_m": 2.0,
+   "age_m": 2.1,
    "stale": false,
    "price_type": "search list",
-   "chg1d": 0.0
+   "chg1d": 1.2
   }
  ]
 }

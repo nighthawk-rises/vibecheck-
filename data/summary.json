@@ -3,46 +3,46 @@
   {
    "kind": "asof",
    "n": 0,
-   "text": "Mon, Nov 16 · data as of 8:42 AM ET · stocks at Friday's close"
+   "text": "Wed, Nov 18 · data as of 8:41 AM ET · stocks at Tuesday's close"
   },
   {
    "kind": "headline",
    "n": 0,
-   "text": "Bitcoin slid 1.4% to $64,620, its lowest close since Aug 17, with crypto Fear & Greed stuck at 10 ahead of Nvidia's results and Anthropic's IPO."
+   "text": "The S&P 500 fund closed at its lowest since July and Coinbase at its lowest since 2023, before Nvidia rose 4.8% after hours on sales up 103%."
   },
   {
    "kind": "para",
    "n": 1,
-   "short": "Bitcoin fell 1.4% to $64,620, its lowest close since Aug 17.",
-   "text": "Bitcoin fell 1.4% to $64,620, its lowest close since Aug 17, and Solana 3.0% to $70.63, its lowest since June 27. Bitcoin dipped under $62,000 on Saturday and has lost about 17% in November, its sixth weekly loss in a row. Nasdaq futures were down 0.8% and the 10-year Treasury yield sat above 5.1%."
+   "short": "S&P 500 fell 1.0% Tuesday to its lowest close since late July.",
+   "text": "The S&P 500 fell 1.0% Tuesday to its lowest close since late July, as traders sold chip stocks before Nvidia's results. Nvidia closed at $155.48, then rose 4.8% after hours on sales of $115.8 billion, up 103%, and a forecast near $130 billion. Coinbase fell 4.0% to $115.02, its lowest close since Nov 2023, and Constellation 3.5%."
   },
   {
    "kind": "para",
    "n": 2,
-   "short": "Nvidia reports Tuesday; Anthropic's IPO starts trading Thursday.",
-   "text": "Nvidia reports after Tuesday's close, with sales of $108.7 billion expected, and traded about 2% lower before the open. Fed minutes come Wednesday, and Anthropic is set to start trading on the Nasdaq Thursday, raising up to $64 billion."
+   "short": "Crypto Fear & Greed 11, Extreme Fear for a sixth day.",
+   "text": "Crypto Fear & Greed reads 11, Extreme Fear for a sixth day, with Bitcoin at $64,008, down 21.8% in a month. Anthropic prices its IPO today and starts trading Thursday. Fed minutes also come today; futures price a December rate hike."
   },
   {
    "kind": "para",
    "n": 3,
-   "short": "Bitcoin 10, Coinbase 13, NVIDIA 14, Solana 16: all Very low.",
-   "text": "Bitcoin reads 10, Coinbase 13, NVIDIA 14 and Solana 16, all Very low; Bitcoin and Coinbase lead the buy list. CNN's stock gauge holds at 39. Games score 51 and Pokémon 49, both Normal. Five of last week's six game sells have fallen since (Pikmin loose −13.6%); the games bought are flat to up 23.7%, while Bitcoin is down 3.8%. None has reached its verdict yet."
+   "short": "Coinbase 10, Bitcoin 11, NVIDIA 12: all Very low.",
+   "text": "Coinbase reads 10, Bitcoin 11 and NVIDIA 12, all Very low; Solana rose to 23, Low. CNN's stock gauge fell to 25 from 37 on Friday. Games score 50 and Pokémon 46, both Normal."
   },
   {
    "kind": "buy",
    "n": 1,
    "group": "markets",
-   "name": "Bitcoin · score 10",
-   "short": "Fear & Greed 10 · down 20.6% in a month · down 31.4% in a year",
-   "text": "Crypto Fear & Greed reads 10, Extreme Fear, for a second day. Bitcoin is $64,620, down 20.6% in a month and 31.4% in a year. Caution: US Bitcoin funds keep losing money and bets on a December Fed hike are high."
+   "name": "Bitcoin · score 11",
+   "short": "Fear & Greed 11 · down 21.8% in a month · down 31.1% in a year",
+   "text": "Crypto Fear & Greed reads 11, Extreme Fear for a sixth day. Bitcoin is $64,008, down 21.8% in a month and 31.1% in a year. Caution: futures price a December Fed rate hike, which has weighed on crypto."
   },
   {
    "kind": "buy",
    "n": 2,
    "group": "markets",
-   "name": "Coinbase · score 13",
-   "short": "RSI 32 · 26.7% under its 200-day average · at its 1-year low",
-   "text": "Coinbase closed Friday at $127.65, down 26.2% in a month and 54.9% in a year. It sits at the bottom of its one-year range, 26.7% under its 200-day average, with RSI 32. Very low stock readings came before above-average 30-day gains in the tests. Caution: Bitcoin fell further over the weekend, so it may open lower."
+   "name": "Coinbase · score 10",
+   "short": "RSI 27 · 33.6% under its 200-day average · at its 1-year low",
+   "text": "Coinbase closed Tuesday at $115.02, down 4.0% on the day, 33.6% in a month and 56.4% in a year, its lowest close since Nov 2023. It sits at the bottom of its one-year range, 33.6% under its 200-day average, with RSI 27. Very low stock readings came before above-average 30-day gains."
   },
   {
    "kind": "buy",
@@ -56,48 +56,48 @@
    "kind": "buy",
    "n": 4,
    "group": "collectibles",
-   "name": "Shadow the Hedgehog (GameCube), boxed · $57.50",
-   "short": "17.3% under its 12-month average · down 14.2% in a month · down 18.2% in a year",
-   "text": "17.3% under its 12-month average after a 14.2% drop in a month, down 18.2% in a year and at the bottom of its one-year range. It sells about twice a day."
+   "name": "Mario Party 3 (N64), loose · $42.85",
+   "short": "21.8% under its 12-month average · down 17.1% in a month · down 14.3% in a year",
+   "text": "21.8% under its 12-month average after a 17.1% drop in a month, down 14.3% in a year and at the bottom of its one-year range. It sells about once a day."
   },
   {
    "kind": "buy",
    "n": 5,
    "group": "collectibles",
-   "name": "Sonic Heroes (GameCube), boxed · $31.14",
-   "short": "13.0% under its 12-month average · down 12.9% in a month · down 10.9% in a year",
-   "text": "13.0% under its 12-month average after a 12.9% drop in a month, down 10.9% in a year and at the bottom of its one-year range. It sells about twice a day."
+   "name": "Mystical Ninja Starring Goemon (N64), loose · $97.00",
+   "short": "16.0% under its 12-month average · down 15.7% in a month · up 7.8% in a year",
+   "text": "16.0% under its 12-month average after a 15.7% drop in a month, though still up 7.8% in a year. It sells about once a day."
   },
   {
    "kind": "sell",
    "n": 1,
    "group": "collectibles",
-   "name": "Resident Evil 4 (GameCube), loose · $41.83",
-   "short": "34.1% over its 12-month average · up 13.4% in a month · up 61.6% in a year",
-   "text": "Up 13.4% in a month to 34.1% over its 12-month average, near the top of its one-year range, and up 61.6% in a year. It sells about three times a week. Games this stretched fell the next month about two times in three."
+   "name": "Resident Evil (GameCube), loose · $34.49",
+   "short": "39.9% over its 12-month average · up 23.2% in a month · up 91.7% in a year",
+   "text": "Up 23.2% in a month to 39.9% over its 12-month average, at the top of its one-year range, and up 91.7% in a year. It sells about three times a week. Games this stretched fell the next month about two times in three."
   },
   {
    "kind": "sell",
    "n": 2,
    "group": "collectibles",
-   "name": "Resident Evil (GameCube), loose · $31.32",
-   "short": "27.1% over its 12-month average · up 11.9% in a month · up 74.1% in a year",
-   "text": "Up 11.9% in a month to 27.1% over its 12-month average, near the top of its one-year range, and up 74.1% in a year. It sells about three times a week."
+   "name": "Zelda Four Swords Adventures (GameCube), boxed · $90.73",
+   "short": "17.8% over its 12-month average · up 10.9% in a month · up 25.1% in a year",
+   "text": "Up 10.9% in a month to 17.8% over its 12-month average, at the top of its one-year range, and up 25.1% in a year. It sells about twice a day."
   },
   {
    "kind": "sell",
    "n": 3,
    "group": "collectibles",
-   "name": "Wave Race 64 (N64), boxed · $74.25",
-   "short": "18.9% over its 12-month average · up 16.9% in a month · up 23.9% in a year",
-   "text": "Up 16.9% in a month to 18.9% over its 12-month average, and up 23.9% in a year. It sells about three times a week."
+   "name": "Zelda Ocarina of Time Master Quest (GameCube), boxed · $83.99",
+   "short": "17.6% over its 12-month average · up 12.1% in a month · up 34.4% in a year",
+   "text": "Up 12.1% in a month to 17.6% over its 12-month average, at the top of its one-year range, and up 34.4% in a year. It sells about twice a day."
   },
   {
    "kind": "dot",
    "n": 1,
    "name": "Extreme fear has come before gains",
    "short": "Bitcoin rose in 30 days after 54 of 71 past days with Fear & Greed at 13 or under.",
-   "text": "After past days with crypto Fear & Greed at 13 or under, Bitcoin was higher 30 days later 54 times in 71, by 5.2% on average, against 57% of all days and 3.6% on average since Oct 2023. Those days bunch into a few spells, so the count overstates the evidence. Checked on the fng and btc rows in history.json.",
+   "text": "After past days with crypto Fear & Greed at 13 or under, Bitcoin was higher 30 days later 54 times in 71, by 5.2% on average, against 57% of all days and 3.5% on average since Oct 2023. Those days bunch into a few spells, so the count overstates the evidence. Checked on the fng and btc rows in history.json.",
    "since": "Nov 14, 2026"
   },
   {
@@ -111,17 +111,17 @@
   {
    "kind": "dot",
    "n": 3,
-   "name": "Stock fear run ends",
-   "short": "CNN's stock gauge read 37, 36, 40 and 39 after 22 readings at 34 or under.",
-   "text": "CNN's gauge read 34 or under at all 22 readings from Oct 14 to Nov 9, then 37, 36, 40 and 39. The two longer runs in the stored history ended Apr 24, 2025 and Apr 9, 2026; 30 days after each, the S&P 500 fund was up 8.1% and 8.7%. Checked on the daily CNN and VOO rows in history.json.",
-   "since": "Nov 5, 2026"
+   "name": "Both fear gauges low at once",
+   "short": "24 of 27 past days with both gauges this low, the S&P 500 fund rose in 30 days.",
+   "text": "CNN's stock gauge read 25 or under and crypto Fear & Greed 15 or under on 28 days since Oct 2023, the latest Jun 26 and now Nov 17. The S&P 500 fund was higher 30 days later after 24 of the 27 earlier ones, by 5.0% on average, against 73% and 1.6% for all days; they bunch into four spells. Checked on the daily rows in history.json.",
+   "since": "Nov 18, 2026"
   },
   {
    "kind": "dot",
    "n": 4,
    "name": "Big drops have tended to bounce",
    "short": "Tesla was higher 30 days later after 10 of its 13 past drops of 8% or more.",
-   "text": "Tesla's 10.9% fall on Nov 5 was its 14th one-day drop of 8% or more in three years of data; it was higher 30 days later after 10 of the 13 before. It has since risen 13.6%, to $390.22 at Friday's close.",
+   "text": "Tesla's 10.9% fall on Nov 5 was its 14th one-day drop of 8% or more in three years of data; it was higher 30 days later after 10 of the 13 before. It has since risen 10.7%, to $380.09 at Tuesday's close.",
    "since": "Oct 31, 2026"
   },
   {
@@ -130,8 +130,8 @@
    "name": "Intuit",
    "ticker": "INTU",
    "link": "https://robinhood.com/us/en/stocks/INTU/",
-   "price": 341.7,
-   "price_date": "2026-11-13",
+   "price": 320.79,
+   "price_date": "2026-11-17",
    "high": 807.39,
    "high_date": "2025-07",
    "next": "Earnings Nov 19",
@@ -148,8 +148,8 @@
    "name": "Netflix",
    "ticker": "NFLX",
    "link": "https://robinhood.com/us/en/stocks/NFLX/",
-   "price": 62.15,
-   "price_date": "2026-11-13",
+   "price": 59.67,
+   "price_date": "2026-11-17",
    "high": 134.12,
    "high_date": "2025-06",
    "text": "About 19x earnings, 12-13% sales growth, buying back stock fast",
@@ -165,8 +165,8 @@
    "name": "PDD Holdings",
    "ticker": "PDD",
    "link": "https://robinhood.com/us/en/stocks/PDD/",
-   "price": 78.97,
-   "price_date": "2026-11-13",
+   "price": 77.39,
+   "price_date": "2026-11-17",
    "high": 157.57,
    "high_date": "2024-05",
    "next": "Earnings Nov 19",
@@ -183,8 +183,8 @@
    "name": "AppLovin",
    "ticker": "APP",
    "link": "https://robinhood.com/us/en/stocks/APP/",
-   "price": 409.1,
-   "price_date": "2026-11-13",
+   "price": 398.94,
+   "price_date": "2026-11-17",
    "high": 745.61,
    "high_date": "2025-09",
    "text": "Q3 sales up 55%, about 19x forward earnings, half its 2025 high",
@@ -200,8 +200,8 @@
    "name": "Reddit",
    "ticker": "RDDT",
    "link": "https://robinhood.com/us/en/stocks/RDDT/",
-   "price": 98.4,
-   "price_date": "2026-11-13",
+   "price": 95.27,
+   "price_date": "2026-11-17",
    "high": 270.71,
    "high_date": "2025-09",
    "text": "Sales up 62%, about 15x forward earnings, 65% under its 2025 high",
@@ -217,8 +217,8 @@
    "name": "Alnylam Pharmaceuticals",
    "ticker": "ALNY",
    "link": "https://robinhood.com/us/en/stocks/ALNY/",
-   "price": 165.04,
-   "price_date": "2026-11-13",
+   "price": 156.5,
+   "price_date": "2026-11-17",
    "high": 491.22,
    "high_date": "2025-10",
    "text": "Product sales up 52%, new $1B buyback, 68% below its 2025 high",
@@ -234,8 +234,8 @@
    "name": "Boston Scientific",
    "ticker": "BSX",
    "link": "https://robinhood.com/us/en/stocks/BSX/",
-   "price": 44.34,
-   "price_date": "2026-11-13",
+   "price": 43.03,
+   "price_date": "2026-11-17",
    "high": 108.14,
    "high_date": "2025-09",
    "text": "About 14.5x forward earnings, 60% below its 2025 high",
@@ -251,8 +251,8 @@
    "name": "Mineralys Therapeutics",
    "ticker": "MLYS",
    "link": "https://robinhood.com/us/en/stocks/MLYS/",
-   "price": 15.33,
-   "price_date": "2026-11-13",
+   "price": 14.48,
+   "price_date": "2026-11-17",
    "high": 47.33,
    "high_date": "2025-11",
    "next": "FDA ruling Dec 22",
@@ -269,8 +269,8 @@
    "name": "Oracle",
    "ticker": "ORCL",
    "link": "https://robinhood.com/us/en/stocks/ORCL/",
-   "price": 125.35,
-   "price_date": "2026-11-13",
+   "price": 115.07,
+   "price_date": "2026-11-17",
    "high": 328.33,
    "high_date": "2025-09",
    "next": "Earnings ~Dec 9",
@@ -287,14 +287,14 @@
    "name": "Summit Therapeutics",
    "ticker": "SMMT",
    "link": "https://robinhood.com/us/en/stocks/SMMT/",
-   "price": 14.15,
-   "price_date": "2026-11-13",
+   "price": 10.67,
+   "price_date": "2026-11-17",
    "high": 36.91,
    "high_date": "2025-04",
-   "text": "23% under AstraZeneca's $18.36 buy-in; the FDA no was in a narrow use",
-   "risk": "FDA turned down its first filing; one drug, no sales yet",
-   "more_for": "AstraZeneca closed a $2 billion investment on Oct 5 at about $18.36 a share; the stock closed Friday at $14.15. Analysts had largely expected the FDA's no, which covered only one narrow lung cancer use. With $630 million in cash plus AstraZeneca's $2 billion it can run for years, and the HARMONi-3 trial reports by year end.",
-   "more_against": "The FDA turned down ivonescimab with chemo for one kind of lung cancer, news that came out Nov 15 after Friday's close, so the stock may fall Monday. HARMONi-3 missed an early check in April 2026, and Summit lost $208 million last quarter.",
+   "text": "42% under AstraZeneca's $18.36 buy-in; 17 late-stage trials still run",
+   "risk": "FDA said no on Nov 15; shares fell 25% since; no sales yet",
+   "more_for": "AstraZeneca closed a $2 billion investment on Oct 5 at about $18.36 a share; the stock closed Tuesday at $10.67. Summit has 17 late-stage trials running and nearly $630 million in cash on top of AstraZeneca's money, and HARMONi-3 reports by year end.",
+   "more_against": "The FDA turned down ivonescimab with chemo for one kind of lung cancer on Nov 15, saying Summit did not show enough benefit on survival. HARMONi-3 missed an early check in April 2026, and Summit lost $208 million last quarter.",
    "since": "Oct 31, 2026",
    "spot_price": 16.03
   },
@@ -319,21 +319,27 @@
    "link": "https://www.gfinityesports.com/article/gta-6-release-date-reaffirmed-by-take-two-after-exceptional-start-to-preorders"
   },
   {
+   "kind": "alert",
+   "n": 1,
+   "section": "method",
+   "text": "No run saved Nov 17, so Bitcoin's and Solana's 1-day changes are blank today."
+  },
+  {
    "kind": "watch",
    "n": 0,
-   "at": "2026-11-15T20:08:00-05:00",
+   "at": "2026-11-17T20:08:00-05:00",
    "missing": [],
    "mode": "coins",
    "of": 2,
    "read": 2,
    "stale": [],
-   "stocks_dated": "2026-11-13"
+   "stocks_dated": "2026-11-17"
   },
   {
    "kind": "idea",
    "n": 0,
-   "short": "Ask the console lists for tracked games only; the fetch tool cuts them short.",
-   "text": "The fetch tool stops reading at 100,000 characters, which cut both console lists after about 138 rows today. All 136 tracked games still came through, but games far down the list could drop out. Step 2D could ask only for rows whose link is in config.json, which keeps each reply short and complete."
+   "short": "Use CoinGecko's 24-hour change when yesterday's crypto row is missing.",
+   "text": "With no Nov 17 row, today's 1-day change for Bitcoin and Solana is blank. CoinGecko's coin pages show a 24-hour change; step 2B could read it and pass it as chg1d when the day before has no stored price, so a skipped run leaves no gap on the page."
   }
  ]
 }
