@@ -3,54 +3,54 @@
   {
    "kind": "asof",
    "n": 0,
-   "text": "Wed, Nov 18 · data as of 8:41 AM ET · stocks at Tuesday's close"
+   "text": "Thu, Nov 19 · data as of 8:41 AM ET · stocks at Wednesday's close"
   },
   {
    "kind": "headline",
    "n": 0,
-   "text": "The S&P 500 fund closed at its lowest since July and Coinbase at its lowest since 2023, before Nvidia rose 4.8% after hours on sales up 103%."
+   "text": "Metals sank Wednesday, copper down 5.3% and silver 4.5%, while Anthropic priced its IPO at $83, above its range."
   },
   {
    "kind": "para",
    "n": 1,
-   "short": "S&P 500 fell 1.0% Tuesday to its lowest close since late July.",
-   "text": "The S&P 500 fell 1.0% Tuesday to its lowest close since late July, as traders sold chip stocks before Nvidia's results. Nvidia closed at $155.48, then rose 4.8% after hours on sales of $115.8 billion, up 103%, and a forecast near $130 billion. Coinbase fell 4.0% to $115.02, its lowest close since Nov 2023, and Constellation 3.5%."
+   "short": "Copper fell 5.3%, silver 4.5% and gold 3.2% Wednesday.",
+   "text": "Copper fell 5.3%, silver 4.5% and gold 3.2% Wednesday as the dollar hit a 19-month high and Fed minutes and officials sounded tough on inflation; gold's fund closed at its lowest since Sept 2025. The S&P 500 fund slipped 0.3%. NVIDIA fell 3.0% to $150.86 the day after its results, and Coinbase 3.9% to $110.51, its lowest close since Nov 2023. Amazon rose 3.8%."
   },
   {
    "kind": "para",
    "n": 2,
-   "short": "Crypto Fear & Greed 11, Extreme Fear for a sixth day.",
-   "text": "Crypto Fear & Greed reads 11, Extreme Fear for a sixth day, with Bitcoin at $64,008, down 21.8% in a month. Anthropic prices its IPO today and starts trading Thursday. Fed minutes also come today; futures price a December rate hike."
+   "short": "Anthropic priced at $83 a share, above its $70-78 range.",
+   "text": "Anthropic priced its IPO at $83 a share, above its $70-78 range, and starts trading today. Crypto Fear & Greed reads 10, Extreme Fear for a seventh day, with Bitcoin at $63,827, down 23.0% in a month."
   },
   {
    "kind": "para",
    "n": 3,
-   "short": "Coinbase 10, Bitcoin 11, NVIDIA 12: all Very low.",
-   "text": "Coinbase reads 10, Bitcoin 11 and NVIDIA 12, all Very low; Solana rose to 23, Low. CNN's stock gauge fell to 25 from 37 on Friday. Games score 50 and Pokémon 46, both Normal."
+   "short": "Coinbase 9, Bitcoin 10, NVIDIA 10: all Very low.",
+   "text": "Coinbase reads 9, Bitcoin 10 and NVIDIA 10, all Very low; Google 22 and Solana 24 are Low, Amazon 67 High. CNN's stock gauge holds at 25. Games score 50 and Pokémon 45, both Normal."
   },
   {
    "kind": "buy",
    "n": 1,
    "group": "markets",
-   "name": "Bitcoin · score 11",
-   "short": "Fear & Greed 11 · down 21.8% in a month · down 31.1% in a year",
-   "text": "Crypto Fear & Greed reads 11, Extreme Fear for a sixth day. Bitcoin is $64,008, down 21.8% in a month and 31.1% in a year. Caution: futures price a December Fed rate hike, which has weighed on crypto."
+   "name": "Bitcoin · score 10",
+   "short": "Fear & Greed 10 · down 23.0% in a month · down 30.2% in a year",
+   "text": "Crypto Fear & Greed reads 10, Extreme Fear for a seventh day. Bitcoin is $63,827, down 23.0% in a month and 30.2% in a year. Caution: a strong dollar and tough Fed talk have weighed on crypto."
   },
   {
    "kind": "buy",
    "n": 2,
    "group": "markets",
-   "name": "Coinbase · score 10",
-   "short": "RSI 27 · 33.6% under its 200-day average · at its 1-year low",
-   "text": "Coinbase closed Tuesday at $115.02, down 4.0% on the day, 33.6% in a month and 56.4% in a year, its lowest close since Nov 2023. It sits at the bottom of its one-year range, 33.6% under its 200-day average, with RSI 27. Very low stock readings came before above-average 30-day gains."
+   "name": "Coinbase · score 9",
+   "short": "RSI 26 · 36.1% under its 200-day average · at its 1-year low",
+   "text": "Coinbase closed Wednesday at $110.51, down 3.9% on the day, 34.4% in a month and 57.8% in a year, its lowest close since Nov 2023. It sits at the bottom of its one-year range, 36.1% under its 200-day average, with RSI 26. Very low stock readings came before above-average 30-day gains."
   },
   {
    "kind": "buy",
    "n": 3,
    "group": "collectibles",
-   "name": "Banjo-Tooie (N64), boxed · $97.50",
-   "short": "25.1% under its 12-month average · down 11.4% in a month · down 24.7% in a year",
-   "text": "25.1% under its 12-month average, down 11.4% in a month and 24.7% in a year, at the bottom of its one-year range. It sells about three times a week. Games this far under their usual price rose the next month about two times in three."
+   "name": "Banjo-Tooie (N64), boxed · $96.00",
+   "short": "26.3% under its 12-month average · down 12.7% in a month · down 25.9% in a year",
+   "text": "26.3% under its 12-month average, down 12.7% in a month and 25.9% in a year, at the bottom of its one-year range. It sells about three times a week. Games this far under their usual price rose the next month about two times in three."
   },
   {
    "kind": "buy",
@@ -80,17 +80,17 @@
    "kind": "sell",
    "n": 2,
    "group": "collectibles",
-   "name": "Zelda Four Swords Adventures (GameCube), boxed · $90.73",
-   "short": "17.8% over its 12-month average · up 10.9% in a month · up 25.1% in a year",
-   "text": "Up 10.9% in a month to 17.8% over its 12-month average, at the top of its one-year range, and up 25.1% in a year. It sells about twice a day."
+   "name": "Star Wars Shadows of the Empire (N64), boxed · $66.02",
+   "short": "23.0% over its 12-month average · up 14.8% in a month · up 31.3% in a year",
+   "text": "Up 14.8% in a month to 23.0% over its 12-month average, at the top of its one-year range, and up 31.3% in a year. It sells about once a day."
   },
   {
    "kind": "sell",
    "n": 3,
    "group": "collectibles",
-   "name": "Zelda Ocarina of Time Master Quest (GameCube), boxed · $83.99",
-   "short": "17.6% over its 12-month average · up 12.1% in a month · up 34.4% in a year",
-   "text": "Up 12.1% in a month to 17.6% over its 12-month average, at the top of its one-year range, and up 34.4% in a year. It sells about twice a day."
+   "name": "Zelda Ocarina of Time Master Quest (GameCube), boxed · $84.99",
+   "short": "19.0% over its 12-month average · up 13.4% in a month · up 36.0% in a year",
+   "text": "Up 13.4% in a month to 19.0% over its 12-month average, at the top of its one-year range, and up 36.0% in a year. It sells about twice a day."
   },
   {
    "kind": "dot",
@@ -113,7 +113,7 @@
    "n": 3,
    "name": "Both fear gauges low at once",
    "short": "24 of 27 past days with both gauges this low, the S&P 500 fund rose in 30 days.",
-   "text": "CNN's stock gauge read 25 or under and crypto Fear & Greed 15 or under on 28 days since Oct 2023, the latest Jun 26 and now Nov 17. The S&P 500 fund was higher 30 days later after 24 of the 27 earlier ones, by 5.0% on average, against 73% and 1.6% for all days; they bunch into four spells. Checked on the daily rows in history.json.",
+   "text": "CNN's stock gauge read 25 or under and crypto Fear & Greed 15 or under on 29 days since Oct 2023, the latest Jun 26, then Nov 17 and 18. The S&P 500 fund was higher 30 days later after 24 of the 27 that can be judged, by 5.0% on average, against 73% and 1.7% for all days; they bunch into four spells. Checked on the daily rows in history.json.",
    "since": "Nov 18, 2026"
   },
   {
@@ -121,7 +121,7 @@
    "n": 4,
    "name": "Big drops have tended to bounce",
    "short": "Tesla was higher 30 days later after 10 of its 13 past drops of 8% or more.",
-   "text": "Tesla's 10.9% fall on Nov 5 was its 14th one-day drop of 8% or more in three years of data; it was higher 30 days later after 10 of the 13 before. It has since risen 10.7%, to $380.09 at Tuesday's close.",
+   "text": "Tesla's 10.9% fall on Nov 5 was its 14th one-day drop of 8% or more in three years of data; it was higher 30 days later after 10 of the 13 before. It has since risen 11.7%, to $383.72 at Wednesday's close.",
    "since": "Oct 31, 2026"
   },
   {
@@ -130,8 +130,8 @@
    "name": "Intuit",
    "ticker": "INTU",
    "link": "https://robinhood.com/us/en/stocks/INTU/",
-   "price": 320.79,
-   "price_date": "2026-11-17",
+   "price": 313.24,
+   "price_date": "2026-11-18",
    "high": 807.39,
    "high_date": "2025-07",
    "next": "Earnings Nov 19",
@@ -148,8 +148,8 @@
    "name": "Netflix",
    "ticker": "NFLX",
    "link": "https://robinhood.com/us/en/stocks/NFLX/",
-   "price": 59.67,
-   "price_date": "2026-11-17",
+   "price": 59.82,
+   "price_date": "2026-11-18",
    "high": 134.12,
    "high_date": "2025-06",
    "text": "About 19x earnings, 12-13% sales growth, buying back stock fast",
@@ -165,8 +165,8 @@
    "name": "PDD Holdings",
    "ticker": "PDD",
    "link": "https://robinhood.com/us/en/stocks/PDD/",
-   "price": 77.39,
-   "price_date": "2026-11-17",
+   "price": 77.45,
+   "price_date": "2026-11-18",
    "high": 157.57,
    "high_date": "2024-05",
    "next": "Earnings Nov 19",
@@ -183,8 +183,8 @@
    "name": "AppLovin",
    "ticker": "APP",
    "link": "https://robinhood.com/us/en/stocks/APP/",
-   "price": 398.94,
-   "price_date": "2026-11-17",
+   "price": 390.91,
+   "price_date": "2026-11-18",
    "high": 745.61,
    "high_date": "2025-09",
    "text": "Q3 sales up 55%, about 19x forward earnings, half its 2025 high",
@@ -200,8 +200,8 @@
    "name": "Reddit",
    "ticker": "RDDT",
    "link": "https://robinhood.com/us/en/stocks/RDDT/",
-   "price": 95.27,
-   "price_date": "2026-11-17",
+   "price": 93.7,
+   "price_date": "2026-11-18",
    "high": 270.71,
    "high_date": "2025-09",
    "text": "Sales up 62%, about 15x forward earnings, 65% under its 2025 high",
@@ -234,8 +234,8 @@
    "name": "Boston Scientific",
    "ticker": "BSX",
    "link": "https://robinhood.com/us/en/stocks/BSX/",
-   "price": 43.03,
-   "price_date": "2026-11-17",
+   "price": 43.64,
+   "price_date": "2026-11-18",
    "high": 108.14,
    "high_date": "2025-09",
    "text": "About 14.5x forward earnings, 60% below its 2025 high",
@@ -251,8 +251,8 @@
    "name": "Mineralys Therapeutics",
    "ticker": "MLYS",
    "link": "https://robinhood.com/us/en/stocks/MLYS/",
-   "price": 14.48,
-   "price_date": "2026-11-17",
+   "price": 13.78,
+   "price_date": "2026-11-18",
    "high": 47.33,
    "high_date": "2025-11",
    "next": "FDA ruling Dec 22",
@@ -269,8 +269,8 @@
    "name": "Oracle",
    "ticker": "ORCL",
    "link": "https://robinhood.com/us/en/stocks/ORCL/",
-   "price": 115.07,
-   "price_date": "2026-11-17",
+   "price": 113.8,
+   "price_date": "2026-11-18",
    "high": 328.33,
    "high_date": "2025-09",
    "next": "Earnings ~Dec 9",
@@ -287,13 +287,13 @@
    "name": "Summit Therapeutics",
    "ticker": "SMMT",
    "link": "https://robinhood.com/us/en/stocks/SMMT/",
-   "price": 10.67,
-   "price_date": "2026-11-17",
+   "price": 10.5,
+   "price_date": "2026-11-18",
    "high": 36.91,
    "high_date": "2025-04",
    "text": "42% under AstraZeneca's $18.36 buy-in; 17 late-stage trials still run",
    "risk": "FDA said no on Nov 15; shares fell 25% since; no sales yet",
-   "more_for": "AstraZeneca closed a $2 billion investment on Oct 5 at about $18.36 a share; the stock closed Tuesday at $10.67. Summit has 17 late-stage trials running and nearly $630 million in cash on top of AstraZeneca's money, and HARMONi-3 reports by year end.",
+   "more_for": "AstraZeneca closed a $2 billion investment on Oct 5 at about $18.36 a share; the stock closed Wednesday at $10.50. Summit has 17 late-stage trials running and nearly $630 million in cash on top of AstraZeneca's money, and HARMONi-3 reports by year end.",
    "more_against": "The FDA turned down ivonescimab with chemo for one kind of lung cancer on Nov 15, saying Summit did not show enough benefit on survival. HARMONi-3 missed an early check in April 2026, and Summit lost $208 million last quarter.",
    "since": "Oct 31, 2026",
    "spot_price": 16.03
@@ -304,9 +304,9 @@
    "date": "2026-11-19",
    "name": "Anthropic IPO on the Nasdaq",
    "touches": "Stock market",
-   "short": "Up to $64B raised at up to $1.4T value, the largest IPO on record.",
-   "text": "Anthropic is set to price its IPO on Nov 18 and start trading on the Nasdaq as ANT on Nov 19, selling 825 million shares at $70 to $78. A sale this size pulls money from other tech and AI stocks, and its first days could sway the whole market.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-fed-minutes-anthropic-120006002.html"
+   "short": "Priced at $83 a share, above its $70-78 range; trades today.",
+   "text": "Anthropic priced its IPO at $83 a share on Nov 18, above its $70 to $78 range, and starts trading on the Nasdaq as ANT on Nov 19. A sale this size pulls money from other tech and AI stocks, and its first days could sway the whole market.",
+   "link": "https://kfgo.com/2026/11/18/trading-day-markets-mixed-in-a-nvidia-anthropic-minutes-swirl/"
   },
   {
    "kind": "showtime",
@@ -322,24 +322,24 @@
    "kind": "alert",
    "n": 1,
    "section": "method",
-   "text": "No run saved Nov 17, so Bitcoin's and Solana's 1-day changes are blank today."
+   "text": "Alnylam's Nov 18 close could not be read; its moon shot price is from Nov 17."
   },
   {
    "kind": "watch",
    "n": 0,
-   "at": "2026-11-17T20:08:00-05:00",
+   "at": "2026-11-18T20:08:00-05:00",
    "missing": [],
    "mode": "coins",
    "of": 2,
    "read": 2,
    "stale": [],
-   "stocks_dated": "2026-11-17"
+   "stocks_dated": "2026-11-18"
   },
   {
    "kind": "idea",
    "n": 0,
-   "short": "Use CoinGecko's 24-hour change when yesterday's crypto row is missing.",
-   "text": "With no Nov 17 row, today's 1-day change for Bitcoin and Solana is blank. CoinGecko's coin pages show a 24-hour change; step 2B could read it and pass it as chg1d when the day before has no stored price, so a skipped run leaves no gap on the page."
+   "short": "3 collectible misreads in two weeks: a $49/month PriceCharting feed would end them.",
+   "text": "3 collectible prices misread in two weeks. PriceCharting's Legendary plan ($49 a month) gives exact prices for every item in one daily file and would end these."
   }
  ]
 }
