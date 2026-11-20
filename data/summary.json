@@ -3,46 +3,46 @@
   {
    "kind": "asof",
    "n": 0,
-   "text": "Thu, Nov 19 · data as of 8:41 AM ET · stocks at Wednesday's close"
+   "text": "Fri, Nov 20 · data as of 8:41 AM ET · stocks at Thursday's close"
   },
   {
    "kind": "headline",
    "n": 0,
-   "text": "Metals sank Wednesday, copper down 5.3% and silver 4.5%, while Anthropic priced its IPO at $83, above its range."
+   "text": "Stocks fell a sixth day as Fed talk of more rate hikes outweighed Nvidia's results, and Bitcoin slid 3.0% to $61,895."
   },
   {
    "kind": "para",
    "n": 1,
-   "short": "Copper fell 5.3%, silver 4.5% and gold 3.2% Wednesday.",
-   "text": "Copper fell 5.3%, silver 4.5% and gold 3.2% Wednesday as the dollar hit a 19-month high and Fed minutes and officials sounded tough on inflation; gold's fund closed at its lowest since Sept 2025. The S&P 500 fund slipped 0.3%. NVIDIA fell 3.0% to $150.86 the day after its results, and Coinbase 3.9% to $110.51, its lowest close since Nov 2023. Amazon rose 3.8%."
+   "short": "The S&P 500 fund fell 2.0% Thursday, its sixth straight drop.",
+   "text": "The S&P 500 fund fell 2.0% Thursday, its sixth straight drop, as Fed talk of more rate hikes outweighed Nvidia's strong results. Constellation fell 4.1%, Amazon 3.9%, Google 3.4% and NVIDIA 3.2%. Anthropic closed its first day at $97, 17% above its $83 IPO price."
   },
   {
    "kind": "para",
    "n": 2,
-   "short": "Anthropic priced at $83 a share, above its $70-78 range.",
-   "text": "Anthropic priced its IPO at $83 a share, above its $70-78 range, and starts trading today. Crypto Fear & Greed reads 10, Extreme Fear for a seventh day, with Bitcoin at $63,827, down 23.0% in a month."
+   "short": "Bitcoin fell 3.0% to $61,895, down 26.3% in a month.",
+   "text": "Bitcoin fell 3.0% to $61,895, down 26.3% in a month, and Solana 2.5% to $72.84. Crypto Fear & Greed reads 12 and CNN's stock gauge 19, both Extreme Fear. After hours, Intuit fell about 13% despite beating estimates; PDD had jumped 11% on a profit beat."
   },
   {
    "kind": "para",
    "n": 3,
-   "short": "Coinbase 9, Bitcoin 10, NVIDIA 10: all Very low.",
-   "text": "Coinbase reads 9, Bitcoin 10 and NVIDIA 10, all Very low; Google 22 and Solana 24 are Low, Amazon 67 High. CNN's stock gauge holds at 25. Games score 50 and Pokémon 45, both Normal."
+   "short": "NVIDIA 8, Coinbase 9, Bitcoin 12, Google 17: all Very low.",
+   "text": "NVIDIA reads 8, Coinbase 9, Bitcoin 12 and Google 17, all Very low; Solana 22 and Constellation 30 are Low. Games score 50 and Pokémon 45, both Normal and unchanged."
   },
   {
    "kind": "buy",
    "n": 1,
    "group": "markets",
-   "name": "Bitcoin · score 10",
-   "short": "Fear & Greed 10 · down 23.0% in a month · down 30.2% in a year",
-   "text": "Crypto Fear & Greed reads 10, Extreme Fear for a seventh day. Bitcoin is $63,827, down 23.0% in a month and 30.2% in a year. Caution: a strong dollar and tough Fed talk have weighed on crypto."
+   "name": "NVIDIA · score 8",
+   "short": "RSI 20 · 28.2% under its 200-day average · at its 1-year low",
+   "text": "NVIDIA closed Thursday at $146.08, down 3.2% on the day, 32.5% in a month and 21.7% in a year. It sits at the bottom of its one-year range, 28.2% under its 200-day average, with RSI 20. Very low stock readings came before above-average 30-day gains. Caution: it fell even after strong results, as Fed hike talk hit the whole market."
   },
   {
    "kind": "buy",
    "n": 2,
    "group": "markets",
-   "name": "Coinbase · score 9",
-   "short": "RSI 26 · 36.1% under its 200-day average · at its 1-year low",
-   "text": "Coinbase closed Wednesday at $110.51, down 3.9% on the day, 34.4% in a month and 57.8% in a year, its lowest close since Nov 2023. It sits at the bottom of its one-year range, 36.1% under its 200-day average, with RSI 26. Very low stock readings came before above-average 30-day gains."
+   "name": "Bitcoin · score 12",
+   "short": "Fear & Greed 12 · down 26.3% in a month · down 28.6% in a year",
+   "text": "Crypto Fear & Greed reads 12, Extreme Fear. Bitcoin is $61,895, down 3.0% on the day, 26.3% in a month and 28.6% in a year. Caution: Fed talk of more rate hikes keeps weighing on crypto."
   },
   {
    "kind": "buy",
@@ -64,9 +64,9 @@
    "kind": "buy",
    "n": 5,
    "group": "collectibles",
-   "name": "Mystical Ninja Starring Goemon (N64), loose · $97.00",
-   "short": "16.0% under its 12-month average · down 15.7% in a month · up 7.8% in a year",
-   "text": "16.0% under its 12-month average after a 15.7% drop in a month, though still up 7.8% in a year. It sells about once a day."
+   "name": "Mystical Ninja Starring Goemon (N64), loose · $94.58",
+   "short": "18.1% under its 12-month average · down 17.8% in a month · up 5.1% in a year",
+   "text": "18.1% under its 12-month average after a 17.8% drop in a month, though still up 5.1% in a year. It sells about once a day."
   },
   {
    "kind": "sell",
@@ -88,13 +88,21 @@
    "kind": "sell",
    "n": 3,
    "group": "collectibles",
-   "name": "Zelda Ocarina of Time Master Quest (GameCube), boxed · $84.99",
-   "short": "19.0% over its 12-month average · up 13.4% in a month · up 36.0% in a year",
-   "text": "Up 13.4% in a month to 19.0% over its 12-month average, at the top of its one-year range, and up 36.0% in a year. It sells about twice a day."
+   "name": "Soul Calibur II (GameCube), boxed · $37.50",
+   "short": "21.2% over its 12-month average · up 12.0% in a month · up 22.0% in a year",
+   "text": "Up 12.0% in a month to 21.2% over its 12-month average, at the top of its one-year range, and up 22.0% in a year. It sells about twice a day."
   },
   {
    "kind": "dot",
    "n": 1,
+   "name": "Both fear gauges low at once",
+   "short": "24 of 27 past days with both gauges this low, the S&P 500 fund rose in 30 days.",
+   "text": "CNN's stock gauge read 25 or under and crypto Fear & Greed 15 or under on 29 days since Oct 2023, most recently Nov 18 and 19. The S&P 500 fund was higher 30 days later after 24 of the 27 that can be judged, by 5.0% on average, against 73% and 1.6% for all days; they bunch into four spells. Checked on the daily rows in history.json.",
+   "since": "Nov 18, 2026"
+  },
+  {
+   "kind": "dot",
+   "n": 2,
    "name": "Extreme fear has come before gains",
    "short": "Bitcoin rose in 30 days after 54 of 71 past days with Fear & Greed at 13 or under.",
    "text": "After past days with crypto Fear & Greed at 13 or under, Bitcoin was higher 30 days later 54 times in 71, by 5.2% on average, against 57% of all days and 3.5% on average since Oct 2023. Those days bunch into a few spells, so the count overstates the evidence. Checked on the fng and btc rows in history.json.",
@@ -102,7 +110,7 @@
   },
   {
    "kind": "dot",
-   "n": 2,
+   "n": 3,
    "name": "Six down weeks for Bitcoin",
    "short": "Bitcoin's Sunday price fell 6 weeks running, from $86,480 to $65,505.",
    "text": "Bitcoin's Sunday price has fallen six weeks in a row, from $86,480 on Oct 4 to $65,505 on Nov 15. That ties the longest run since 2023, which ended Mar 1, 2026; 30 days later Bitcoin was up 3.8%. Checked on the daily Bitcoin rows in history.json.",
@@ -110,18 +118,10 @@
   },
   {
    "kind": "dot",
-   "n": 3,
-   "name": "Both fear gauges low at once",
-   "short": "24 of 27 past days with both gauges this low, the S&P 500 fund rose in 30 days.",
-   "text": "CNN's stock gauge read 25 or under and crypto Fear & Greed 15 or under on 29 days since Oct 2023, the latest Jun 26, then Nov 17 and 18. The S&P 500 fund was higher 30 days later after 24 of the 27 that can be judged, by 5.0% on average, against 73% and 1.7% for all days; they bunch into four spells. Checked on the daily rows in history.json.",
-   "since": "Nov 18, 2026"
-  },
-  {
-   "kind": "dot",
    "n": 4,
    "name": "Big drops have tended to bounce",
    "short": "Tesla was higher 30 days later after 10 of its 13 past drops of 8% or more.",
-   "text": "Tesla's 10.9% fall on Nov 5 was its 14th one-day drop of 8% or more in three years of data; it was higher 30 days later after 10 of the 13 before. It has since risen 11.7%, to $383.72 at Wednesday's close.",
+   "text": "Tesla's 10.9% fall on Nov 5 was its 14th one-day drop of 8% or more in three years of data; it was higher 30 days later after 10 of the 13 before. It has since risen 9.0%, to $374.41 at Thursday's close.",
    "since": "Oct 31, 2026"
   },
   {
@@ -130,15 +130,14 @@
    "name": "Intuit",
    "ticker": "INTU",
    "link": "https://robinhood.com/us/en/stocks/INTU/",
-   "price": 313.24,
-   "price_date": "2026-11-18",
+   "price": 310.02,
+   "price_date": "2026-11-19",
    "high": 807.39,
    "high_date": "2025-07",
-   "next": "Earnings Nov 19",
-   "text": "About 15x forward earnings, sales up 14%, 58% below its 2025 high",
-   "risk": "Fear that AI tools erode TurboTax and QuickBooks",
-   "more_for": "Trailing revenue is $21.45B, up 13.9%, and net income rose 18%. At $341.50 it trades near 15x forward earnings, 58% below its July 2025 closing high. It guided fiscal 2027 revenue up 9-10%, added an $8B buyback plan in May and raised its dividend 15%. Q1 results come Nov 19.",
-   "more_against": "Shares hit a five-year low in May after Intuit cut its TurboTax revenue outlook and announced a 17% workforce cut. Investors fear AI tools could undercut tax and accounting software. Growth guidance of 9-10% is slower than past years.",
+   "text": "Q1 beat; selling Mailchimp for $3.68B to fund buybacks",
+   "risk": "Fell about 13% after hours on its outlook; AI fears for software",
+   "more_for": "Fiscal Q1 revenue rose 12% to $4.35B and adjusted EPS of $2.91 beat the $2.46 estimate. It agreed to sell Mailchimp to Bending Spoons for $3.68B in cash and stock and plans to use the cash for buybacks. Its fiscal 2027 profit guide midpoint came in slightly above the estimate.",
+   "more_against": "Shares fell about 13% after hours on Nov 19 despite the beat, after a 53% drop this year. The top of the revenue guide only came close to the $23.4B estimate, and TurboTax revenue rose just 1%. Investors fear AI tools will erode its software.",
    "spot_price": 354.77,
    "since": "Nov 6, 2026"
   },
@@ -148,8 +147,8 @@
    "name": "Netflix",
    "ticker": "NFLX",
    "link": "https://robinhood.com/us/en/stocks/NFLX/",
-   "price": 59.82,
-   "price_date": "2026-11-18",
+   "price": 58.46,
+   "price_date": "2026-11-19",
    "high": 134.12,
    "high_date": "2025-06",
    "text": "About 19x earnings, 12-13% sales growth, buying back stock fast",
@@ -165,15 +164,14 @@
    "name": "PDD Holdings",
    "ticker": "PDD",
    "link": "https://robinhood.com/us/en/stocks/PDD/",
-   "price": 77.45,
-   "price_date": "2026-11-18",
+   "price": 85.95,
+   "price_date": "2026-11-19",
    "high": 157.57,
    "high_date": "2024-05",
-   "next": "Earnings Nov 19",
-   "text": "About 7x forward earnings; cash near 56% of its market value",
-   "risk": "Profit falling on price wars; China and Temu tariff risks",
-   "more_for": "PDD trades at 9x trailing and about 7x forward earnings, with revenue up 10%. A Sept 2026 analysis put cash and short-term investments near $67B, about 56% of today's $119.5B market value. Deutsche Bank upgraded it to Buy around Oct 30.",
-   "more_against": "Net income fell 6% over the past year and Q2 revenue missed estimates. Competition from Alibaba, JD and Douyin is squeezing margins, and Temu faces new EU parcel fees. Chinese stocks are in a bear market, and the stock has lost about 4% a year over five years.",
+   "text": "Q3 operating profit up 25%; EPS $3.14 beat $2.71; cheap on earnings",
+   "risk": "Revenue flat at $16.2B, missed $17.3B; Temu users shrinking",
+   "more_for": "Q3 operating profit rose 25% to $4.6B as sales and marketing costs fell 17%, and adjusted EPS of $3.14 beat the $2.71 estimate. Online marketing revenue rose 12% to $8.9B. The stock rose 11% to $85.95 on Nov 19.",
+   "more_against": "Revenue was flat at $16.2B, missing the $17.3B estimate, and transaction revenue fell 12%. Temu's user base is shrinking and China's e-commerce price war shows no letup. It needs revenue growth back for the stock to keep rising.",
    "spot_price": 83.97,
    "since": "Nov 6, 2026"
   },
@@ -183,8 +181,8 @@
    "name": "AppLovin",
    "ticker": "APP",
    "link": "https://robinhood.com/us/en/stocks/APP/",
-   "price": 390.91,
-   "price_date": "2026-11-18",
+   "price": 379.02,
+   "price_date": "2026-11-19",
    "high": 745.61,
    "high_date": "2025-09",
    "text": "Q3 sales up 55%, about 19x forward earnings, half its 2025 high",
@@ -200,8 +198,8 @@
    "name": "Reddit",
    "ticker": "RDDT",
    "link": "https://robinhood.com/us/en/stocks/RDDT/",
-   "price": 93.7,
-   "price_date": "2026-11-18",
+   "price": 89.88,
+   "price_date": "2026-11-19",
    "high": 270.71,
    "high_date": "2025-09",
    "text": "Sales up 62%, about 15x forward earnings, 65% under its 2025 high",
@@ -217,8 +215,8 @@
    "name": "Alnylam Pharmaceuticals",
    "ticker": "ALNY",
    "link": "https://robinhood.com/us/en/stocks/ALNY/",
-   "price": 156.5,
-   "price_date": "2026-11-17",
+   "price": 147.82,
+   "price_date": "2026-11-19",
    "high": 491.22,
    "high_date": "2025-10",
    "text": "Product sales up 52%, new $1B buyback, 68% below its 2025 high",
@@ -234,8 +232,8 @@
    "name": "Boston Scientific",
    "ticker": "BSX",
    "link": "https://robinhood.com/us/en/stocks/BSX/",
-   "price": 43.64,
-   "price_date": "2026-11-18",
+   "price": 42.99,
+   "price_date": "2026-11-19",
    "high": 108.14,
    "high_date": "2025-09",
    "text": "About 14.5x forward earnings, 60% below its 2025 high",
@@ -269,8 +267,8 @@
    "name": "Oracle",
    "ticker": "ORCL",
    "link": "https://robinhood.com/us/en/stocks/ORCL/",
-   "price": 113.8,
-   "price_date": "2026-11-18",
+   "price": 110.64,
+   "price_date": "2026-11-19",
    "high": 328.33,
    "high_date": "2025-09",
    "next": "Earnings ~Dec 9",
@@ -287,8 +285,8 @@
    "name": "Summit Therapeutics",
    "ticker": "SMMT",
    "link": "https://robinhood.com/us/en/stocks/SMMT/",
-   "price": 10.5,
-   "price_date": "2026-11-18",
+   "price": 10.57,
+   "price_date": "2026-11-19",
    "high": 36.91,
    "high_date": "2025-04",
    "text": "42% under AstraZeneca's $18.36 buy-in; 17 late-stage trials still run",
@@ -299,47 +297,27 @@
    "spot_price": 16.03
   },
   {
-   "kind": "showtime",
-   "n": 1,
-   "date": "2026-11-19",
-   "name": "Anthropic IPO on the Nasdaq",
-   "touches": "Stock market",
-   "short": "Priced at $83 a share, above its $70-78 range; trades today.",
-   "text": "Anthropic priced its IPO at $83 a share on Nov 18, above its $70 to $78 range, and starts trading on the Nasdaq as ANT on Nov 19. A sale this size pulls money from other tech and AI stocks, and its first days could sway the whole market.",
-   "link": "https://kfgo.com/2026/11/18/trading-day-markets-mixed-in-a-nvidia-anthropic-minutes-swirl/"
-  },
-  {
-   "kind": "showtime",
-   "n": 2,
-   "date": "2026-11-19",
-   "name": "GTA 6 launch",
-   "touches": "Gaming",
-   "short": "The biggest game launch in years, after two delays.",
-   "text": "Rockstar's Grand Theft Auto VI comes out Nov 19 on PS5 and Xbox Series X|S. Take-Two kept the date on its Aug 7 earnings call and called preorders 'unprecedented'. A launch this size pulls gamers' money and time for weeks.",
-   "link": "https://www.gfinityesports.com/article/gta-6-release-date-reaffirmed-by-take-two-after-exceptional-start-to-preorders"
-  },
-  {
    "kind": "alert",
    "n": 1,
    "section": "method",
-   "text": "Alnylam's Nov 18 close could not be read; its moon shot price is from Nov 17."
+   "text": "Mineralys's Nov 18 and 19 closes could not be read; its moon shot price is from Nov 18."
   },
   {
    "kind": "watch",
    "n": 0,
-   "at": "2026-11-18T20:08:00-05:00",
+   "at": "2026-11-19T20:08:00-05:00",
    "missing": [],
    "mode": "coins",
    "of": 2,
    "read": 2,
    "stale": [],
-   "stocks_dated": "2026-11-18"
+   "stocks_dated": "2026-11-19"
   },
   {
    "kind": "idea",
    "n": 0,
-   "short": "3 collectible misreads in two weeks: a $49/month PriceCharting feed would end them.",
-   "text": "3 collectible prices misread in two weeks. PriceCharting's Legendary plan ($49 a month) gives exact prices for every item in one daily file and would end these."
+   "short": "CoinGecko's page gave a stale Solana price: $130.73 against $72.84.",
+   "text": "CoinGecko's coin page served an old Solana price today ($130.73; OKX showed $72.84), caught only by the 15% check. Reading crypto prices from CoinGecko's free price API (api.coingecko.com/api/v3/simple/price) instead of its web page would stop this."
   }
  ]
 }
